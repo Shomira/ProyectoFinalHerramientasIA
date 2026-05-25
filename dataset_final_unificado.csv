@@ -1,0 +1,1001 @@
+edad,pais_origen,ciudad_ecuador,tipo_viaje,fecha_viaje,transporte,hospedaje,personas_viaje,dias_estancia,pasajes,costot_comida,gastos_extras,satisfaccion,id_ciudad,provincia,region,clima,altitud,atractivo_principal,id_hospedaje,categoria,precio_noche_promedio,incluye_desayuno
+62,Greece,Manta,Aventura,2025-05-31,Bus,Casa huespedes,6,6,400,792,192,8,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+67,Andorra,Cuenca,Negocios,2026-04-28,Auto,Hostal,3,5,810,180,280,8,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+23,Canada,Riobamba,Aventura,2025-07-24,Motociclista,Resort,3,11,1104,1287,259,6,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+69,Gibraltar,Otavalo,Vacaciones,2026-02-18,Ciclista,Resort,5,2,659,100,180,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+54,Cape Verde,Guayaquil,Aventura,2026-01-17,Avión,Hotel,1,11,325,187,225,1,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+25,Saint Lucia,Cuenca,Estudio,2025-06-16,Ciclista,Airbnb,1,14,204,434,28,8,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+62,British Virgin Islands,Quito,Aventura,2025-11-20,Avión,Airbnb,2,2,479,40,245,6,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+33,Svalbard & Jan Mayen Islands,Cuenca,Estudio,2025-08-25,Avión,Casa huespedes,4,2,269,144,79,9,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+52,Cuba,Guayaquil,Visita Familia,2026-02-13,Motociclista,Resort,5,14,256,1330,43,10,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+60,Hungary,Guayaquil,Vacaciones,2025-10-22,Ciclista,Hotel,3,14,491,1134,276,7,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+52,Paraguay,Manta,Vacaciones,2026-02-24,Auto,Casa huespedes,4,7,174,784,148,5,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+66,Cocos (Keeling) Islands,Manta,Vacaciones,2025-12-03,Bus,Hotel,6,5,1052,1050,203,3,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+50,Greece,Pastaza,Aventura,2025-10-05,Auto,Hotel,4,12,678,576,200,7,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,1,4 estrellas,90,Sí
+30,Guadeloupe,Otavalo,Visita Familia,2026-05-19,Avión,Hostal,6,15,1043,2070,282,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+39,Liechtenstein,Guayaquil,Negocios,2025-10-24,Ciclista,Resort,1,10,682,250,291,8,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+32,Cook Islands,Loja,Aventura,2025-11-14,Avión,Hotel,5,1,595,60,50,4,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+69,Jamaica,Manta,Vacaciones,2025-10-31,Motociclista,Hostal,3,7,807,840,66,9,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+50,Christmas Island,Manta,Vacaciones,2026-05-02,Avión,Hotel,3,11,631,1254,148,1,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+28,Comoros,Cuenca,Estudio,2025-11-19,Auto,Hostal,2,11,1181,858,114,9,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+19,Algeria,Riobamba,Vacaciones,2025-06-18,Bus,Hostal,4,9,923,720,70,5,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+34,Nigeria,Quito,Visita Familia,2026-03-06,Ciclista,Hostal,2,1,687,50,229,9,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+18,China,Zamora,Aventura,2025-06-02,Auto,Hostal,1,13,821,221,231,6,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+38,Congo,Riobamba,Visita Familia,2025-09-14,Ciclista,Airbnb,1,14,325,518,41,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+35,Spain,Quito,Visita Familia,2025-12-21,Auto,Hotel,5,9,435,585,172,1,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+46,Montserrat,Zamora,Estudio,2026-03-23,Avión,Airbnb,3,8,856,408,204,6,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+31,Senegal,Quito,Negocios,2025-11-29,Auto,Airbnb,6,7,838,1134,190,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+35,Panama,Quito,Visita Familia,2026-02-27,Ciclista,Casa huespedes,1,3,1059,117,216,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+46,Timor-Leste,Loja,Vacaciones,2026-02-28,Avión,Hotel,1,9,636,234,188,9,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+35,Greece,Guayaquil,Estudio,2025-12-31,Bus,Hostal,2,6,173,384,256,3,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+44,Barbados,Riobamba,Visita Familia,2026-01-16,Motociclista,Hostal,5,1,778,115,36,5,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+62,Turks and Caicos Islands,Pastaza,Aventura,2025-09-06,Motociclista,Resort,5,7,1091,840,28,10,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+46,Czech Republic,Cuenca,Estudio,2026-02-08,Ciclista,Hostal,1,13,637,351,234,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+38,Ethiopia,Baños,Aventura,2025-06-30,Ciclista,Casa huespedes,2,4,873,224,76,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+27,Netherlands,Manta,Estudio,2025-10-12,Ciclista,Hostal,3,4,645,336,78,3,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+38,Netherlands Antilles,Riobamba,Vacaciones,2025-11-13,Avión,Resort,4,15,157,1620,247,10,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+35,Timor-Leste,Guayaquil,Aventura,2026-05-20,Motociclista,Casa huespedes,2,6,1082,240,20,4,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+39,Bahamas,Riobamba,Aventura,2026-02-04,Avión,Casa huespedes,1,1,489,34,196,4,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+30,Slovakia (Slovak Republic),Guayaquil,Estudio,2025-09-15,Avión,Hotel,1,6,276,90,95,8,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+23,Cyprus,Guayaquil,Estudio,2026-03-29,Ciclista,Hotel,4,15,479,600,261,6,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+51,Mauritania,Loja,Aventura,2026-01-16,Motociclista,Resort,2,4,651,200,121,5,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+63,Latvia,Guayaquil,Estudio,2025-08-25,Motociclista,Hostal,1,13,572,364,228,1,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+34,American Samoa,Manta,Vacaciones,2026-04-26,Bus,Hostal,5,10,132,500,114,10,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+53,Antigua and Barbuda,Baños,Visita Familia,2025-10-31,Avión,Airbnb,3,6,334,198,130,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+50,Montenegro,Baños,Estudio,2026-03-14,Auto,Hostal,3,10,503,750,45,9,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+46,Guyana,Cuenca,Aventura,2025-09-10,Avión,Airbnb,3,4,861,432,46,10,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+18,Maldives,Guayaquil,Aventura,2025-09-24,Auto,Casa huespedes,1,4,1089,92,35,3,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+51,Bouvet Island (Bouvetoya),Cuenca,Vacaciones,2025-06-23,Auto,Airbnb,6,9,721,1134,128,6,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+48,Samoa,Baños,Vacaciones,2026-02-12,Auto,Resort,1,9,844,261,183,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+30,India,Quito,Vacaciones,2025-08-23,Avión,Resort,2,2,551,84,202,4,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+65,Grenada,Cuenca,Aventura,2025-12-17,Auto,Hotel,1,4,472,72,129,5,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+38,Saint Vincent and the Grenadines,Cuenca,Negocios,2025-06-06,Ciclista,Airbnb,3,3,321,180,120,10,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+53,Saint Pierre and Miquelon,Pastaza,Visita Familia,2026-05-07,Bus,Hotel,3,13,1140,1209,34,4,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,1,4 estrellas,90,Sí
+66,Antarctica (the territory South of 60 deg S),Riobamba,Aventura,2025-08-06,Ciclista,Hotel,5,12,1062,1440,60,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+66,Montenegro,Guayaquil,Aventura,2025-07-24,Motociclista,Hostal,1,12,940,120,42,6,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+56,Timor-Leste,Riobamba,Aventura,2025-11-28,Auto,Hostal,1,3,390,111,78,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+56,Palestinian Territory,Loja,Vacaciones,2025-11-03,Bus,Casa huespedes,5,14,119,2380,280,4,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+19,Switzerland,Riobamba,Vacaciones,2026-03-15,Motociclista,Hostal,4,12,163,1248,36,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+48,Qatar,Cuenca,Estudio,2025-07-01,Ciclista,Hostal,1,13,1177,351,289,10,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+38,Saint Kitts and Nevis,Baños,Visita Familia,2025-07-20,Avión,Hotel,3,2,1132,186,71,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+53,Morocco,Baños,Aventura,2026-01-21,Bus,Airbnb,5,8,666,1480,184,8,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+47,Sierra Leone,Zamora,Visita Familia,2025-10-27,Bus,Airbnb,6,1,191,84,282,5,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+45,Mexico,Zamora,Vacaciones,2025-07-11,Ciclista,Hotel,5,1,694,170,278,2,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+27,Tuvalu,Zamora,Aventura,2025-11-22,Motociclista,Hotel,2,1,230,66,97,9,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+59,Iraq,Baños,Visita Familia,2025-06-13,Motociclista,Airbnb,4,3,316,384,273,9,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+54,Marshall Islands,Otavalo,Aventura,2025-08-22,Motociclista,Airbnb,6,15,712,1440,161,4,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+60,French Guiana,Zamora,Estudio,2025-08-16,Avión,Hostal,5,11,411,1705,267,6,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+47,Central African Republic,Guayaquil,Aventura,2025-10-01,Bus,Airbnb,2,9,947,288,200,10,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+65,Fiji,Pastaza,Negocios,2025-09-18,Auto,Hotel,6,2,208,156,115,2,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,1,4 estrellas,90,Sí
+63,Montserrat,Zamora,Aventura,2026-04-08,Auto,Hotel,3,6,1127,450,127,7,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+49,Lebanon,Baños,Estudio,2025-07-31,Ciclista,Airbnb,4,4,224,256,92,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+54,Kuwait,Quito,Aventura,2026-02-26,Motociclista,Casa huespedes,4,8,394,448,204,2,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+38,Ecuador,Pastaza,Visita Familia,2025-08-20,Ciclista,Hostal,5,12,868,1020,64,7,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+67,South Georgia and the South Sandwich Islands,Manta,Visita Familia,2026-02-25,Motociclista,Resort,1,6,354,84,205,9,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+36,Iraq,Manta,Visita Familia,2026-04-26,Bus,Casa huespedes,3,13,1135,897,91,1,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+58,Rwanda,Otavalo,Negocios,2026-05-14,Avión,Casa huespedes,3,7,1121,273,297,7,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,5,Familiar,35,No
+58,Namibia,Pastaza,Negocios,2025-09-13,Motociclista,Hostal,1,1,950,38,74,9,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+65,Barbados,Manta,Aventura,2025-07-07,Avión,Casa huespedes,3,13,981,507,163,2,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+68,New Zealand,Quito,Visita Familia,2025-07-22,Auto,Casa huespedes,3,3,1128,306,159,9,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+40,Turkmenistan,Quito,Vacaciones,2026-05-06,Avión,Resort,1,12,1100,180,156,1,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+70,Israel,Guayaquil,Aventura,2026-05-16,Motociclista,Hotel,5,6,695,570,215,5,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+52,Libyan Arab Jamahiriya,Baños,Estudio,2025-06-11,Bus,Airbnb,2,7,908,434,268,4,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+27,Bouvet Island (Bouvetoya),Pastaza,Visita Familia,2025-06-06,Bus,Hotel,3,1,119,63,258,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,1,4 estrellas,90,Sí
+35,Burundi,Otavalo,Aventura,2025-09-21,Avión,Resort,3,8,972,312,99,7,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+68,Colombia,Cuenca,Negocios,2026-02-08,Bus,Hotel,3,10,640,1170,89,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+56,Afghanistan,Riobamba,Vacaciones,2025-12-11,Auto,Hostal,2,7,648,280,212,10,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+50,Canada,Loja,Aventura,2026-01-03,Auto,Hotel,1,14,451,434,257,9,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+20,Seychelles,Cuenca,Negocios,2026-05-19,Motociclista,Hostal,5,9,989,540,282,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+66,Cyprus,Guayaquil,Negocios,2025-12-07,Ciclista,Airbnb,5,9,579,990,287,10,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+31,Korea,Baños,Estudio,2025-07-05,Ciclista,Airbnb,5,9,839,675,178,3,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+32,Senegal,Loja,Visita Familia,2025-06-17,Ciclista,Resort,4,14,772,1176,144,3,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+22,El Salvador,Loja,Negocios,2026-01-04,Auto,Resort,1,14,461,224,102,5,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+33,Iraq,Guayaquil,Visita Familia,2025-10-03,Ciclista,Hotel,2,15,264,960,42,4,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+67,Gabon,Otavalo,Aventura,2026-01-18,Ciclista,Hotel,5,8,1148,800,83,5,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+26,Suriname,Zamora,Negocios,2026-05-07,Bus,Hotel,2,8,464,256,284,3,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+63,Bangladesh,Baños,Vacaciones,2025-08-30,Motociclista,Hostal,5,12,210,2160,265,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+69,Samoa,Loja,Aventura,2026-02-23,Avión,Resort,1,7,858,238,25,2,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+67,Isle of Man,Baños,Aventura,2025-08-22,Bus,Airbnb,5,15,140,975,209,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+55,Mauritius,Loja,Negocios,2025-12-15,Avión,Airbnb,6,3,1121,576,255,5,4,Loja,Sierra,Templado,2100,Turismo Cultural,3,Privado,50,Depende
+62,Lesotho,Otavalo,Vacaciones,2026-05-09,Ciclista,Hostal,1,9,1165,297,74,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+56,Nigeria,Quito,Negocios,2026-03-23,Ciclista,Airbnb,2,5,1129,260,99,7,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+18,Djibouti,Cuenca,Vacaciones,2025-10-24,Bus,Casa huespedes,2,3,159,216,226,9,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+57,Cayman Islands,Otavalo,Estudio,2025-12-04,Ciclista,Resort,3,8,956,672,198,10,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+20,Puerto Rico,Guayaquil,Vacaciones,2025-10-28,Motociclista,Resort,1,15,885,390,135,3,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+29,Heard Island and McDonald Islands,Otavalo,Estudio,2025-06-03,Avión,Airbnb,4,3,638,312,295,9,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+31,India,Cuenca,Visita Familia,2026-02-27,Motociclista,Airbnb,1,4,186,100,242,2,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+21,Tanzania,Guayaquil,Vacaciones,2026-03-30,Motociclista,Hotel,2,15,1171,420,150,10,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+22,Antigua and Barbuda,Quito,Visita Familia,2025-06-26,Avión,Hostal,5,2,610,230,150,2,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+19,Samoa,Manta,Negocios,2025-11-03,Avión,Resort,2,12,733,288,152,9,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+49,Egypt,Riobamba,Vacaciones,2025-11-14,Avión,Hostal,6,12,149,2376,126,10,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+43,Jamaica,Guayaquil,Visita Familia,2026-04-13,Avión,Airbnb,6,10,550,1860,111,1,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+24,Bahamas,Loja,Negocios,2026-03-21,Motociclista,Hostal,1,3,1175,117,113,2,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+59,Serbia,Cuenca,Estudio,2025-12-13,Auto,Casa huespedes,6,10,675,1980,89,4,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+27,United States Minor Outlying Islands,Riobamba,Estudio,2026-04-09,Motociclista,Casa huespedes,2,2,587,92,82,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+30,Cuba,Guayaquil,Estudio,2025-10-05,Bus,Casa huespedes,6,13,716,2886,78,10,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+64,Aruba,Pastaza,Aventura,2025-08-09,Avión,Hotel,6,11,318,2178,57,1,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,1,4 estrellas,90,Sí
+40,Croatia,Riobamba,Negocios,2025-05-25,Motociclista,Resort,3,9,579,594,196,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+51,Gambia,Cuenca,Aventura,2025-06-25,Bus,Airbnb,4,10,692,1480,179,5,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+47,Jamaica,Otavalo,Visita Familia,2025-11-20,Motociclista,Airbnb,4,6,798,720,120,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+31,Israel,Zamora,Visita Familia,2026-03-10,Bus,Hotel,5,2,771,370,92,4,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+47,Macao,Quito,Estudio,2026-01-20,Avión,Casa huespedes,6,5,478,1170,298,6,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+27,Vietnam,Baños,Negocios,2025-10-10,Motociclista,Resort,3,1,744,102,96,2,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+33,Nepal,Quito,Visita Familia,2025-07-04,Motociclista,Resort,4,8,466,640,71,2,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+66,India,Guayaquil,Negocios,2025-12-22,Motociclista,Hostal,5,9,214,585,101,4,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+44,Israel,Cuenca,Vacaciones,2025-08-13,Auto,Hostal,2,2,989,116,214,5,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+49,China,Riobamba,Vacaciones,2026-03-31,Ciclista,Airbnb,4,2,291,224,116,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+52,Norfolk Island,Zamora,Negocios,2025-06-09,Auto,Hotel,6,8,551,1728,293,6,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+49,Bosnia and Herzegovina,Guayaquil,Estudio,2025-08-11,Bus,Hostal,6,8,1086,1488,217,4,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+37,Aruba,Manta,Negocios,2025-07-02,Motociclista,Hotel,4,10,120,1000,154,6,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+23,Mauritania,Riobamba,Visita Familia,2025-10-01,Ciclista,Resort,5,12,1111,1200,234,8,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+20,Peru,Guayaquil,Estudio,2025-12-08,Avión,Hotel,2,8,530,272,204,6,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+37,Uganda,Otavalo,Estudio,2026-04-29,Avión,Casa huespedes,4,8,323,896,203,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,5,Familiar,35,No
+55,Lithuania,Guayaquil,Vacaciones,2025-08-30,Avión,Hostal,4,7,796,560,152,4,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+41,Vanuatu,Zamora,Aventura,2025-11-25,Motociclista,Hotel,6,10,658,1920,150,8,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+51,Bosnia and Herzegovina,Otavalo,Aventura,2026-01-24,Motociclista,Airbnb,5,8,531,1520,118,10,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+53,Bulgaria,Quito,Vacaciones,2026-04-01,Ciclista,Hostal,6,3,758,504,73,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+52,Aruba,Quito,Aventura,2025-09-19,Ciclista,Airbnb,6,12,476,1296,264,5,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+18,Mauritius,Baños,Visita Familia,2026-03-25,Motociclista,Resort,4,4,428,320,253,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+23,Afghanistan,Guayaquil,Visita Familia,2026-03-24,Motociclista,Airbnb,1,9,724,225,239,4,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+62,Luxembourg,Riobamba,Aventura,2025-09-01,Avión,Airbnb,1,2,1051,60,42,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+53,Peru,Pastaza,Negocios,2025-08-31,Avión,Casa huespedes,1,6,520,216,58,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+40,Azerbaijan,Zamora,Aventura,2025-11-28,Bus,Casa huespedes,6,12,1087,2880,208,8,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,5,Familiar,35,No
+42,Guadeloupe,Loja,Aventura,2026-04-04,Auto,Hostal,5,2,712,160,226,7,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+60,Burkina Faso,Zamora,Vacaciones,2025-07-28,Bus,Hostal,2,3,240,102,78,1,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+28,Luxembourg,Loja,Negocios,2025-12-29,Motociclista,Casa huespedes,4,10,483,960,53,7,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+43,French Guiana,Cuenca,Visita Familia,2026-03-23,Bus,Resort,4,11,1183,1188,210,4,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+52,Japan,Otavalo,Negocios,2025-06-20,Auto,Hostal,4,10,785,440,102,6,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+63,Venezuela,Baños,Estudio,2025-09-15,Avión,Resort,1,3,365,48,276,2,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+58,Sudan,Zamora,Vacaciones,2026-03-01,Avión,Airbnb,4,7,120,588,101,8,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+24,Palestinian Territory,Pastaza,Aventura,2026-02-09,Auto,Resort,1,5,651,100,28,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+49,Cayman Islands,Cuenca,Negocios,2025-09-29,Bus,Casa huespedes,5,13,777,1235,260,5,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+34,French Southern Territories,Otavalo,Estudio,2025-08-16,Avión,Airbnb,4,10,464,1360,79,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+23,Barbados,Zamora,Estudio,2026-02-04,Bus,Hotel,2,8,824,448,99,10,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+51,Malta,Otavalo,Vacaciones,2025-06-20,Motociclista,Casa huespedes,6,11,1170,792,86,7,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,5,Familiar,35,No
+43,Turkmenistan,Loja,Aventura,2025-11-13,Motociclista,Hostal,4,2,225,96,30,2,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+58,United Kingdom,Quito,Negocios,2026-01-05,Bus,Hotel,3,14,591,1344,143,4,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+29,Lesotho,Cuenca,Visita Familia,2025-08-10,Auto,Airbnb,5,6,822,1050,47,8,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+45,Italy,Guayaquil,Vacaciones,2026-05-03,Bus,Hotel,6,7,117,798,201,7,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+28,Portugal,Loja,Negocios,2026-04-20,Bus,Hostal,4,10,409,680,112,4,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+29,Germany,Guayaquil,Visita Familia,2025-10-17,Auto,Casa huespedes,2,2,647,40,49,8,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+68,Serbia,Loja,Negocios,2026-04-25,Auto,Hotel,5,5,284,775,290,3,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+68,Mauritania,Zamora,Estudio,2025-11-22,Motociclista,Hotel,4,11,759,660,258,3,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+33,Cuba,Baños,Visita Familia,2025-09-16,Ciclista,Hotel,1,8,1124,136,286,1,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+66,Afghanistan,Guayaquil,Visita Familia,2026-05-05,Ciclista,Resort,4,6,628,408,231,8,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+47,Wallis and Futuna,Loja,Visita Familia,2026-04-23,Auto,Casa huespedes,1,15,1159,270,179,4,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+48,Monaco,Manta,Estudio,2025-11-22,Avión,Hotel,5,12,921,1680,223,6,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+21,Vanuatu,Manta,Estudio,2026-02-18,Bus,Resort,6,7,754,1470,214,8,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+47,New Caledonia,Pastaza,Vacaciones,2025-11-27,Ciclista,Hostal,3,12,1156,756,134,9,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+59,Lithuania,Baños,Visita Familia,2025-06-11,Motociclista,Resort,5,2,650,190,21,4,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+33,Croatia,Loja,Estudio,2025-10-17,Motociclista,Hostal,2,8,1100,384,110,3,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+34,Eritrea,Cuenca,Aventura,2025-08-31,Ciclista,Casa huespedes,1,12,282,120,228,6,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+33,Ghana,Manta,Estudio,2025-07-11,Avión,Resort,6,3,439,288,179,3,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+26,Cayman Islands,Riobamba,Aventura,2025-07-04,Motociclista,Airbnb,4,8,514,640,289,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+56,Christmas Island,Zamora,Estudio,2025-07-23,Auto,Resort,4,4,797,160,141,4,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+56,Syrian Arab Republic,Manta,Negocios,2026-03-22,Bus,Hotel,3,13,787,1170,279,3,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+45,Taiwan,Otavalo,Visita Familia,2026-02-07,Motociclista,Casa huespedes,4,13,580,1404,267,9,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,5,Familiar,35,No
+18,Haiti,Quito,Negocios,2026-05-22,Avión,Hostal,5,3,1142,510,94,4,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+22,Saint Barthelemy,Pastaza,Aventura,2025-11-22,Avión,Resort,3,3,978,351,298,10,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+57,Lithuania,Baños,Negocios,2026-03-10,Ciclista,Airbnb,4,11,548,440,55,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+28,Mali,Cuenca,Vacaciones,2025-06-10,Bus,Hotel,2,7,523,546,75,5,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+70,Saint Pierre and Miquelon,Quito,Aventura,2025-09-05,Bus,Airbnb,6,5,406,1200,250,5,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+18,Bhutan,Otavalo,Estudio,2026-05-09,Ciclista,Hostal,3,10,766,450,185,6,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+37,Greece,Riobamba,Negocios,2025-10-04,Auto,Casa huespedes,1,8,111,232,221,6,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+54,Turks and Caicos Islands,Quito,Visita Familia,2026-01-16,Motociclista,Casa huespedes,5,3,611,420,249,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+47,Korea,Riobamba,Vacaciones,2025-09-12,Bus,Hotel,1,14,253,140,209,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+57,Saint Pierre and Miquelon,Baños,Visita Familia,2025-06-05,Motociclista,Airbnb,3,11,1080,1023,28,1,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+62,United States Minor Outlying Islands,Guayaquil,Estudio,2025-10-15,Bus,Airbnb,6,2,304,240,189,8,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+36,Japan,Riobamba,Estudio,2025-10-10,Motociclista,Hostal,3,6,970,702,114,6,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+46,Bouvet Island (Bouvetoya),Zamora,Vacaciones,2025-10-02,Bus,Airbnb,6,11,685,2508,90,2,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+30,China,Guayaquil,Estudio,2026-03-14,Avión,Hostal,3,5,727,285,268,10,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+22,French Southern Territories,Otavalo,Aventura,2026-04-23,Auto,Hotel,2,8,880,224,300,7,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+60,Zimbabwe,Guayaquil,Estudio,2025-11-20,Avión,Casa huespedes,5,13,623,1885,95,2,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+46,Cuba,Loja,Estudio,2025-09-12,Motociclista,Casa huespedes,4,1,520,56,70,8,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+49,Honduras,Zamora,Vacaciones,2025-11-25,Avión,Resort,1,11,607,385,114,6,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+69,Luxembourg,Guayaquil,Estudio,2025-10-22,Ciclista,Casa huespedes,6,1,689,180,256,6,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+70,Hong Kong,Zamora,Visita Familia,2025-06-12,Avión,Casa huespedes,5,14,1003,1470,119,2,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,5,Familiar,35,No
+19,Eritrea,Guayaquil,Vacaciones,2025-10-21,Motociclista,Airbnb,5,11,668,1870,105,6,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+21,Saint Lucia,Guayaquil,Negocios,2025-08-08,Bus,Airbnb,1,14,1070,196,231,6,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+57,Aruba,Pastaza,Estudio,2025-08-29,Auto,Resort,4,3,1071,156,28,10,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+51,Nepal,Guayaquil,Negocios,2025-07-14,Avión,Casa huespedes,3,5,963,315,108,6,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+18,Jordan,Otavalo,Negocios,2026-03-22,Avión,Airbnb,5,7,330,1330,156,8,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+39,Sri Lanka,Pastaza,Vacaciones,2025-10-06,Bus,Airbnb,6,13,1158,2808,26,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+51,Romania,Riobamba,Aventura,2026-02-27,Ciclista,Hostal,2,8,321,448,172,5,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+51,Luxembourg,Baños,Visita Familia,2025-09-15,Avión,Airbnb,5,3,1155,585,181,8,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+54,Nauru,Otavalo,Negocios,2026-05-14,Motociclista,Casa huespedes,3,11,830,990,61,8,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,5,Familiar,35,No
+42,Ireland,Pastaza,Negocios,2025-12-12,Bus,Resort,1,13,840,429,203,9,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+59,Bouvet Island (Bouvetoya),Cuenca,Vacaciones,2026-01-29,Auto,Airbnb,1,14,802,182,282,4,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+63,Macao,Manta,Vacaciones,2025-10-06,Ciclista,Hostal,2,13,182,936,137,7,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+30,Svalbard & Jan Mayen Islands,Baños,Negocios,2025-08-12,Auto,Casa huespedes,5,14,716,2520,62,8,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+28,United States Virgin Islands,Guayaquil,Visita Familia,2025-12-11,Bus,Casa huespedes,1,10,148,360,208,7,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+48,Netherlands,Zamora,Negocios,2025-05-23,Bus,Hotel,1,9,1059,99,97,2,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+62,Cook Islands,Quito,Vacaciones,2025-12-28,Avión,Hotel,2,15,1190,660,294,9,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+66,Equatorial Guinea,Baños,Aventura,2025-10-16,Avión,Casa huespedes,3,15,626,1620,104,8,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+39,Antarctica (the territory South of 60 deg S),Zamora,Estudio,2026-03-27,Auto,Hotel,1,1,791,14,243,3,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+60,Canada,Riobamba,Aventura,2026-03-23,Ciclista,Hotel,4,10,943,960,286,8,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+23,Wallis and Futuna,Pastaza,Negocios,2026-01-24,Ciclista,Airbnb,6,13,1128,2028,23,3,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+64,Suriname,Zamora,Estudio,2025-08-11,Bus,Hostal,6,5,543,1020,235,7,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+38,Qatar,Quito,Estudio,2026-02-01,Ciclista,Resort,1,12,1066,372,45,2,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+33,Tajikistan,Quito,Negocios,2026-05-03,Motociclista,Hostal,4,8,976,1280,226,4,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+41,Niue,Pastaza,Estudio,2025-09-04,Motociclista,Hotel,4,5,611,760,171,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,1,4 estrellas,90,Sí
+39,Nicaragua,Guayaquil,Vacaciones,2026-01-24,Ciclista,Casa huespedes,3,13,1128,702,26,2,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+19,Malawi,Pastaza,Visita Familia,2026-01-29,Auto,Casa huespedes,6,4,980,336,34,9,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+49,Jordan,Pastaza,Estudio,2025-08-15,Ciclista,Airbnb,3,10,706,870,96,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+63,Romania,Zamora,Vacaciones,2025-10-30,Motociclista,Hotel,2,8,424,368,161,1,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+57,Ghana,Loja,Negocios,2025-12-22,Ciclista,Hostal,6,15,756,2970,231,7,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+64,Bangladesh,Riobamba,Visita Familia,2026-05-07,Avión,Hotel,6,15,840,3330,239,8,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+33,Maldives,Cuenca,Estudio,2026-02-19,Motociclista,Casa huespedes,1,4,914,132,38,9,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+53,Liechtenstein,Riobamba,Aventura,2025-08-13,Auto,Hotel,5,5,809,275,267,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+61,Saint Kitts and Nevis,Cuenca,Negocios,2025-08-09,Auto,Hotel,3,8,615,648,229,8,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+51,Tokelau,Riobamba,Visita Familia,2025-11-07,Auto,Resort,2,8,290,352,188,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+45,Mozambique,Quito,Visita Familia,2025-06-06,Avión,Airbnb,1,2,1088,54,94,6,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+33,Mozambique,Manta,Aventura,2026-02-01,Avión,Casa huespedes,2,11,555,550,222,8,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+45,Cuba,Riobamba,Aventura,2025-09-11,Bus,Hostal,5,9,955,1440,48,3,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+55,Antigua and Barbuda,Zamora,Aventura,2025-10-11,Auto,Hostal,2,14,843,700,285,5,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+69,Guam,Loja,Negocios,2025-07-07,Bus,Casa huespedes,2,1,444,20,176,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+58,Sao Tome and Principe,Manta,Aventura,2025-09-08,Motociclista,Airbnb,6,4,692,408,95,6,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+24,Singapore,Manta,Vacaciones,2026-02-20,Ciclista,Hotel,4,5,702,640,199,7,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+40,Uzbekistan,Riobamba,Visita Familia,2025-09-14,Bus,Casa huespedes,6,5,1128,810,174,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+62,Paraguay,Riobamba,Vacaciones,2025-06-11,Ciclista,Casa huespedes,6,3,974,666,296,6,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+48,Guinea-Bissau,Otavalo,Negocios,2025-10-04,Motociclista,Resort,5,10,794,1300,89,4,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+18,Ireland,Otavalo,Aventura,2026-04-02,Auto,Resort,5,9,475,1665,145,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+70,Dominica,Quito,Aventura,2026-05-08,Avión,Hostal,5,2,801,130,55,9,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+45,Estonia,Manta,Aventura,2026-02-22,Ciclista,Resort,4,2,734,296,290,8,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+26,Saint Vincent and the Grenadines,Pastaza,Vacaciones,2025-06-24,Ciclista,Casa huespedes,6,6,1160,1368,237,5,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+59,Anguilla,Manta,Negocios,2025-06-14,Motociclista,Resort,6,10,855,1020,150,7,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+40,Grenada,Baños,Visita Familia,2026-04-24,Avión,Airbnb,5,4,957,800,167,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+66,Greenland,Baños,Negocios,2025-12-31,Avión,Hostal,4,2,1119,248,85,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+38,Zambia,Otavalo,Negocios,2025-07-24,Bus,Airbnb,4,13,286,1352,149,9,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+43,Ireland,Cuenca,Estudio,2026-03-15,Bus,Airbnb,2,2,768,156,293,8,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+69,United Arab Emirates,Zamora,Estudio,2026-01-17,Motociclista,Airbnb,3,2,871,84,28,10,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+22,Mauritania,Manta,Vacaciones,2025-06-14,Motociclista,Hotel,4,3,390,348,273,9,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+46,Oman,Riobamba,Estudio,2025-10-22,Bus,Hostal,5,7,291,1015,26,9,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+19,Somalia,Pastaza,Visita Familia,2026-02-10,Avión,Casa huespedes,1,3,1187,96,253,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+64,Mauritius,Otavalo,Visita Familia,2025-10-24,Auto,Hotel,6,15,1008,2970,121,7,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+45,Montserrat,Guayaquil,Visita Familia,2025-06-13,Motociclista,Hostal,6,4,804,408,205,7,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+50,Kuwait,Guayaquil,Negocios,2026-02-22,Motociclista,Hostal,5,6,1024,720,75,1,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+40,Taiwan,Cuenca,Vacaciones,2026-02-28,Bus,Casa huespedes,6,2,1095,324,116,2,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+45,Colombia,Otavalo,Estudio,2026-01-10,Bus,Resort,6,9,519,1728,49,6,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+59,Guinea,Pastaza,Negocios,2026-04-23,Avión,Resort,5,12,600,900,171,7,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+61,Sierra Leone,Riobamba,Estudio,2025-09-08,Auto,Resort,4,4,242,224,107,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+22,Tokelau,Pastaza,Negocios,2025-11-21,Bus,Airbnb,3,13,246,1521,116,6,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+52,Mexico,Riobamba,Estudio,2025-12-06,Motociclista,Hostal,5,10,1019,700,30,8,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+69,Kenya,Guayaquil,Estudio,2025-07-15,Bus,Hostal,2,4,432,96,90,8,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+48,Uganda,Quito,Vacaciones,2026-02-22,Ciclista,Hostal,1,10,260,300,212,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+43,Central African Republic,Cuenca,Visita Familia,2025-11-28,Bus,Hostal,1,3,863,96,247,6,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+33,Latvia,Pastaza,Vacaciones,2025-10-05,Motociclista,Airbnb,6,5,837,840,204,3,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+68,Serbia,Cuenca,Vacaciones,2026-01-14,Auto,Hostal,1,8,900,96,51,2,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+56,Guam,Otavalo,Aventura,2025-08-25,Avión,Resort,3,11,262,957,136,7,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+38,Ecuador,Baños,Negocios,2026-05-23,Avión,Casa huespedes,3,5,845,435,214,9,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+66,Kuwait,Manta,Visita Familia,2025-07-03,Ciclista,Resort,5,15,247,2775,114,6,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+45,Anguilla,Baños,Estudio,2026-04-11,Avión,Hotel,5,2,460,330,213,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+52,Poland,Otavalo,Visita Familia,2025-12-23,Avión,Casa huespedes,4,5,973,700,84,9,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,5,Familiar,35,No
+38,Palau,Baños,Vacaciones,2025-12-27,Ciclista,Resort,4,14,575,2184,255,2,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+34,Sudan,Guayaquil,Estudio,2026-03-22,Motociclista,Resort,1,2,703,62,259,5,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+50,Micronesia,Quito,Aventura,2026-03-10,Motociclista,Resort,5,2,856,170,172,8,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+22,United States Minor Outlying Islands,Cuenca,Negocios,2025-06-09,Avión,Hotel,6,4,1050,456,245,10,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+27,Antigua and Barbuda,Otavalo,Negocios,2025-06-30,Avión,Hotel,4,13,367,1248,177,6,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+27,Guyana,Otavalo,Aventura,2025-11-05,Auto,Hostal,4,6,185,624,267,7,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+20,Lebanon,Zamora,Visita Familia,2026-03-26,Auto,Hostal,6,11,514,1848,95,9,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+45,Philippines,Zamora,Visita Familia,2025-05-26,Bus,Casa huespedes,3,12,593,1080,257,4,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,5,Familiar,35,No
+55,Chad,Quito,Estudio,2025-10-15,Auto,Hostal,3,9,170,432,113,10,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+52,Guadeloupe,Cuenca,Estudio,2025-12-10,Ciclista,Casa huespedes,1,9,630,99,41,10,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+51,Latvia,Pastaza,Aventura,2025-06-22,Motociclista,Hotel,1,10,226,300,176,5,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,1,4 estrellas,90,Sí
+68,Indonesia,Cuenca,Estudio,2025-11-13,Motociclista,Hotel,1,11,950,396,230,4,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+22,French Southern Territories,Quito,Aventura,2025-10-05,Avión,Resort,1,15,138,390,266,1,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+25,Monaco,Guayaquil,Negocios,2026-03-28,Avión,Hostal,3,2,773,228,152,1,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+46,Ireland,Loja,Negocios,2025-10-19,Motociclista,Casa huespedes,2,12,321,432,167,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+43,Korea,Baños,Aventura,2025-05-27,Avión,Casa huespedes,2,5,822,380,145,4,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+38,Mongolia,Manta,Visita Familia,2025-10-06,Motociclista,Hotel,4,15,733,1800,80,4,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+18,Libyan Arab Jamahiriya,Baños,Vacaciones,2025-07-19,Motociclista,Hotel,1,3,728,30,170,3,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+43,Chile,Riobamba,Estudio,2025-11-05,Auto,Resort,2,9,1161,720,248,6,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+18,Honduras,Baños,Estudio,2025-08-30,Ciclista,Hostal,3,2,1185,240,66,9,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+33,Afghanistan,Loja,Vacaciones,2025-11-24,Auto,Hostal,1,12,775,132,289,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+58,French Guiana,Baños,Vacaciones,2026-02-25,Ciclista,Resort,2,8,1064,544,76,3,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+67,Senegal,Pastaza,Vacaciones,2026-02-18,Bus,Casa huespedes,4,4,115,640,74,9,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+22,Georgia,Baños,Negocios,2026-02-22,Auto,Airbnb,2,10,715,580,43,4,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+58,Tanzania,Zamora,Estudio,2025-12-11,Auto,Hotel,5,2,1079,330,62,10,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+65,Korea,Cuenca,Aventura,2025-05-27,Avión,Casa huespedes,2,4,325,128,107,7,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+36,Lao People's Democratic Republic,Cuenca,Aventura,2025-09-20,Auto,Hotel,2,2,1118,112,231,1,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+51,Bahamas,Riobamba,Vacaciones,2025-06-06,Motociclista,Airbnb,1,13,1005,156,164,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+25,Djibouti,Loja,Estudio,2025-12-26,Auto,Hostal,3,9,564,378,265,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+52,Equatorial Guinea,Quito,Vacaciones,2025-07-13,Motociclista,Casa huespedes,5,1,1199,200,138,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+29,Burkina Faso,Guayaquil,Estudio,2025-10-19,Bus,Hotel,2,4,1100,192,272,1,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+35,Central African Republic,Riobamba,Estudio,2025-10-11,Ciclista,Airbnb,3,4,491,180,50,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+27,Greenland,Baños,Vacaciones,2025-09-20,Avión,Casa huespedes,5,11,849,880,58,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+59,Serbia,Pastaza,Aventura,2025-06-22,Auto,Hotel,5,8,1039,680,106,6,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,1,4 estrellas,90,Sí
+59,Korea,Guayaquil,Vacaciones,2025-08-26,Auto,Hotel,6,4,417,240,145,7,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+64,Bhutan,Pastaza,Vacaciones,2025-12-08,Avión,Airbnb,2,6,517,276,179,1,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+62,Saint Lucia,Otavalo,Aventura,2026-01-16,Bus,Hotel,4,14,488,2016,174,3,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+29,Afghanistan,Riobamba,Vacaciones,2026-02-17,Ciclista,Resort,3,11,826,330,264,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+26,Guinea,Guayaquil,Aventura,2026-03-06,Avión,Resort,3,14,1030,966,281,8,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+21,Reunion,Loja,Aventura,2025-09-30,Bus,Airbnb,4,12,952,576,148,3,4,Loja,Sierra,Templado,2100,Turismo Cultural,3,Privado,50,Depende
+49,Iraq,Loja,Visita Familia,2026-01-11,Auto,Hotel,5,7,735,945,274,5,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+46,Mali,Manta,Vacaciones,2025-11-22,Motociclista,Hostal,1,13,273,390,70,5,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+62,Greece,Riobamba,Aventura,2025-07-01,Avión,Hostal,5,4,991,380,96,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+42,Taiwan,Pastaza,Aventura,2026-05-18,Avión,Airbnb,2,13,739,728,180,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+31,Moldova,Otavalo,Negocios,2025-08-10,Bus,Hotel,5,14,548,980,28,4,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+38,Zambia,Loja,Visita Familia,2025-12-30,Motociclista,Hotel,2,3,650,192,111,4,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+29,Svalbard & Jan Mayen Islands,Pastaza,Aventura,2026-04-19,Bus,Hotel,5,2,427,220,171,1,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,1,4 estrellas,90,Sí
+62,South Africa,Riobamba,Vacaciones,2025-08-24,Ciclista,Airbnb,6,2,1189,348,39,4,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+41,Cote d'Ivoire,Guayaquil,Visita Familia,2026-01-02,Avión,Casa huespedes,5,9,1026,1260,39,4,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+42,Guernsey,Otavalo,Visita Familia,2026-03-13,Auto,Resort,1,2,1172,76,82,5,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+27,Haiti,Pastaza,Visita Familia,2025-07-31,Auto,Casa huespedes,3,13,628,663,158,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+46,Russian Federation,Baños,Negocios,2025-12-24,Auto,Casa huespedes,2,6,642,396,244,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+29,Belgium,Cuenca,Vacaciones,2025-09-26,Bus,Airbnb,4,4,280,480,183,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+61,Montserrat,Loja,Negocios,2026-05-16,Avión,Hotel,5,2,231,100,238,3,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+24,United States of America,Baños,Estudio,2025-10-05,Motociclista,Airbnb,1,8,975,240,151,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+27,Vietnam,Cuenca,Aventura,2025-08-18,Ciclista,Airbnb,2,14,639,868,76,9,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+48,Western Sahara,Cuenca,Estudio,2025-06-24,Bus,Casa huespedes,2,2,950,140,121,8,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+28,Algeria,Manta,Estudio,2025-06-23,Motociclista,Resort,1,4,1031,140,86,10,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+68,Grenada,Quito,Negocios,2026-01-09,Avión,Resort,4,6,268,480,35,5,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+37,Iraq,Cuenca,Vacaciones,2025-09-16,Motociclista,Casa huespedes,5,1,949,85,183,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+25,Comoros,Riobamba,Vacaciones,2025-10-16,Ciclista,Hotel,3,6,1152,216,140,3,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+52,Wallis and Futuna,Guayaquil,Visita Familia,2025-09-18,Avión,Hotel,4,10,608,400,91,4,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+67,Taiwan,Quito,Vacaciones,2025-08-13,Avión,Hotel,1,10,1092,290,84,6,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+41,Cyprus,Riobamba,Aventura,2026-02-10,Ciclista,Casa huespedes,1,5,704,115,145,3,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+55,Algeria,Loja,Vacaciones,2025-12-29,Auto,Hostal,1,12,153,216,54,5,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+45,Solomon Islands,Zamora,Aventura,2025-09-03,Bus,Resort,3,14,211,756,231,9,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+22,Guatemala,Zamora,Vacaciones,2026-01-10,Auto,Casa huespedes,5,14,777,2800,194,10,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,5,Familiar,35,No
+48,Heard Island and McDonald Islands,Cuenca,Visita Familia,2025-08-19,Ciclista,Airbnb,1,3,726,102,179,10,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+51,Comoros,Loja,Vacaciones,2025-10-26,Auto,Hotel,5,13,681,1625,25,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+19,Cocos (Keeling) Islands,Baños,Aventura,2026-01-23,Avión,Hostal,5,9,860,765,107,8,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+29,Maldives,Loja,Visita Familia,2026-03-29,Avión,Hostal,1,12,1008,456,206,3,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+33,Afghanistan,Baños,Negocios,2025-12-08,Auto,Hostal,1,9,939,324,265,1,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+43,Netherlands Antilles,Otavalo,Negocios,2026-05-19,Auto,Hotel,6,6,375,1440,168,9,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+69,Qatar,Pastaza,Estudio,2025-09-03,Bus,Hostal,1,10,580,120,38,6,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+68,Mongolia,Guayaquil,Aventura,2025-06-19,Avión,Resort,5,5,931,600,251,6,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+66,North Macedonia,Cuenca,Negocios,2025-12-12,Motociclista,Airbnb,2,9,626,324,179,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+58,Jersey,Manta,Visita Familia,2026-04-23,Motociclista,Resort,4,2,453,120,244,5,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+42,Grenada,Manta,Estudio,2025-09-22,Bus,Hostal,5,6,116,810,102,3,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+47,El Salvador,Baños,Estudio,2026-03-24,Ciclista,Hotel,1,2,224,66,33,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+28,South Georgia and the South Sandwich Islands,Loja,Vacaciones,2026-01-06,Avión,Hotel,4,11,951,1760,35,2,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+35,South Africa,Manta,Visita Familia,2025-10-10,Bus,Hotel,5,8,325,1360,186,2,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+57,Guam,Manta,Estudio,2026-03-16,Avión,Airbnb,2,3,523,156,109,8,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+25,Lebanon,Baños,Negocios,2025-12-31,Auto,Casa huespedes,4,1,526,120,75,9,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+56,Uganda,Quito,Visita Familia,2025-08-08,Auto,Hostal,4,3,245,468,140,8,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+68,Mayotte,Pastaza,Estudio,2025-11-26,Ciclista,Resort,2,6,376,432,281,3,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+18,Greece,Cuenca,Visita Familia,2025-12-14,Motociclista,Hostal,1,13,595,325,170,2,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+63,Portugal,Riobamba,Vacaciones,2026-02-10,Ciclista,Hostal,2,1,1163,38,269,4,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+46,Croatia,Baños,Aventura,2025-11-30,Auto,Hostal,4,6,621,456,101,4,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+37,Dominican Republic,Guayaquil,Vacaciones,2026-04-03,Ciclista,Resort,4,6,852,576,137,6,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+63,Sri Lanka,Baños,Negocios,2025-10-21,Bus,Hotel,5,7,1179,1050,118,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+56,Congo,Baños,Vacaciones,2025-06-27,Auto,Casa huespedes,4,1,1192,112,86,2,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+63,Togo,Riobamba,Vacaciones,2026-01-28,Motociclista,Hotel,6,5,946,930,192,5,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+43,Somalia,Pastaza,Visita Familia,2026-02-19,Ciclista,Casa huespedes,6,4,1060,504,292,4,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+28,Mongolia,Baños,Estudio,2026-05-13,Motociclista,Hotel,1,14,141,434,268,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+59,Saint Martin,Otavalo,Vacaciones,2025-12-04,Bus,Airbnb,6,2,562,276,86,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+36,Gambia,Guayaquil,Estudio,2026-04-02,Avión,Casa huespedes,6,3,264,360,211,9,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+48,Libyan Arab Jamahiriya,Baños,Negocios,2025-05-30,Motociclista,Airbnb,6,9,289,2160,73,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+42,Cape Verde,Otavalo,Vacaciones,2025-12-26,Auto,Airbnb,3,1,194,39,239,9,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+22,Zimbabwe,Baños,Aventura,2025-06-04,Ciclista,Hotel,2,2,853,80,120,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+66,Greece,Quito,Vacaciones,2026-03-20,Bus,Resort,2,7,786,364,251,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+55,Italy,Loja,Visita Familia,2026-03-18,Motociclista,Hostal,6,13,670,1794,234,1,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+22,Germany,Guayaquil,Negocios,2025-05-25,Auto,Resort,5,7,658,1085,261,9,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+41,Netherlands,Loja,Visita Familia,2025-12-15,Motociclista,Airbnb,4,14,929,2240,191,5,4,Loja,Sierra,Templado,2100,Turismo Cultural,3,Privado,50,Depende
+48,Nicaragua,Otavalo,Visita Familia,2025-06-30,Auto,Hostal,1,9,1180,252,167,10,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+64,Congo,Baños,Vacaciones,2025-06-07,Bus,Resort,4,3,897,348,290,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+58,Marshall Islands,Cuenca,Estudio,2025-06-03,Ciclista,Resort,4,9,598,1116,114,4,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+19,Brazil,Manta,Aventura,2026-01-12,Auto,Hotel,6,13,164,2262,285,4,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+60,Syrian Arab Republic,Otavalo,Visita Familia,2025-08-08,Bus,Hotel,1,8,918,112,29,3,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+21,Bahrain,Loja,Visita Familia,2026-03-10,Bus,Casa huespedes,3,6,822,324,212,8,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+57,Burkina Faso,Guayaquil,Estudio,2026-03-11,Avión,Casa huespedes,6,1,686,126,163,4,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+56,Kiribati,Pastaza,Visita Familia,2025-07-04,Bus,Casa huespedes,1,7,1109,196,162,7,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+60,Svalbard & Jan Mayen Islands,Guayaquil,Visita Familia,2025-10-15,Auto,Hotel,3,10,133,300,22,9,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+57,Tokelau,Guayaquil,Estudio,2026-01-07,Motociclista,Hostal,4,13,481,936,224,5,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+64,United States Virgin Islands,Manta,Vacaciones,2025-11-30,Avión,Hostal,6,11,1082,990,256,3,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+25,Suriname,Manta,Aventura,2025-12-24,Motociclista,Resort,3,1,579,66,208,9,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+55,Bosnia and Herzegovina,Pastaza,Aventura,2026-03-01,Avión,Airbnb,3,4,977,192,281,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+61,Namibia,Baños,Visita Familia,2026-02-14,Bus,Hostal,5,10,238,1100,225,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+35,Guinea,Otavalo,Aventura,2026-03-23,Auto,Airbnb,2,8,1031,480,22,5,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+25,North Macedonia,Manta,Aventura,2025-08-07,Bus,Casa huespedes,2,5,198,280,260,9,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+50,Norfolk Island,Manta,Negocios,2026-02-13,Avión,Casa huespedes,2,15,154,510,251,10,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+27,Tanzania,Zamora,Negocios,2025-07-17,Auto,Resort,5,4,563,440,103,9,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+58,Mauritius,Zamora,Estudio,2025-06-11,Bus,Hostal,3,2,568,126,109,1,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+24,French Polynesia,Guayaquil,Visita Familia,2025-08-20,Auto,Hostal,5,6,604,420,153,4,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+34,Afghanistan,Loja,Vacaciones,2026-02-01,Bus,Hotel,4,9,1055,864,263,2,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+51,Namibia,Guayaquil,Vacaciones,2026-02-08,Avión,Hotel,1,6,962,174,266,6,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+44,Albania,Otavalo,Aventura,2025-12-18,Auto,Airbnb,6,11,868,2376,189,10,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+45,Guinea-Bissau,Baños,Aventura,2025-09-20,Bus,Hostal,5,13,1160,650,176,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+60,Iran,Zamora,Estudio,2026-01-02,Ciclista,Hostal,5,5,390,625,242,7,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+70,Mauritania,Manta,Visita Familia,2025-10-24,Auto,Casa huespedes,3,15,675,945,277,8,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+36,Turks and Caicos Islands,Riobamba,Vacaciones,2026-01-20,Auto,Resort,4,10,844,480,124,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+30,Switzerland,Riobamba,Estudio,2025-12-23,Auto,Hotel,1,6,474,78,34,9,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+22,Zambia,Otavalo,Vacaciones,2025-06-05,Auto,Airbnb,6,14,705,840,277,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+46,Heard Island and McDonald Islands,Quito,Negocios,2025-09-19,Motociclista,Hostal,4,1,771,132,47,4,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+48,Netherlands Antilles,Pastaza,Visita Familia,2025-08-27,Auto,Resort,1,9,727,108,39,5,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+57,Angola,Zamora,Negocios,2026-04-15,Ciclista,Resort,3,8,1138,912,211,5,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+27,Moldova,Cuenca,Vacaciones,2025-11-19,Bus,Resort,5,4,998,240,45,5,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+51,Svalbard & Jan Mayen Islands,Otavalo,Estudio,2025-06-08,Motociclista,Airbnb,6,10,535,1020,155,4,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+40,Russian Federation,Quito,Negocios,2025-11-13,Avión,Casa huespedes,1,6,759,114,27,2,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+51,Algeria,Zamora,Aventura,2025-06-21,Avión,Airbnb,5,11,112,1540,244,4,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+25,Vietnam,Guayaquil,Visita Familia,2026-02-12,Motociclista,Hostal,1,9,532,135,44,9,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+61,Burundi,Otavalo,Visita Familia,2026-04-27,Avión,Resort,6,4,182,552,26,2,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+34,United States Virgin Islands,Otavalo,Visita Familia,2025-07-10,Ciclista,Hotel,6,11,742,2508,48,4,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+53,Sudan,Cuenca,Visita Familia,2026-01-09,Avión,Airbnb,1,6,1181,186,101,10,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+42,Germany,Cuenca,Negocios,2026-02-28,Avión,Hotel,5,4,1133,460,52,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+70,Mayotte,Otavalo,Vacaciones,2025-06-22,Avión,Airbnb,1,8,917,232,264,5,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+44,Cameroon,Cuenca,Estudio,2025-10-22,Ciclista,Casa huespedes,3,10,668,780,42,1,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+33,Luxembourg,Riobamba,Aventura,2025-12-18,Auto,Resort,2,6,1094,216,88,5,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+46,Brunei Darussalam,Loja,Aventura,2025-05-26,Motociclista,Hotel,5,15,778,2475,275,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+23,Armenia,Cuenca,Visita Familia,2026-04-24,Bus,Hotel,6,9,1130,648,151,8,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+33,United Arab Emirates,Zamora,Estudio,2025-10-17,Ciclista,Resort,2,2,997,144,70,8,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+49,Tanzania,Loja,Aventura,2025-06-20,Ciclista,Hotel,6,10,907,1860,125,1,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+63,Albania,Loja,Aventura,2025-06-07,Avión,Casa huespedes,5,8,784,440,206,8,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+55,Montenegro,Otavalo,Aventura,2025-09-06,Auto,Hotel,1,8,702,280,201,8,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+20,Niue,Pastaza,Estudio,2025-07-02,Bus,Casa huespedes,2,12,1166,696,128,4,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+43,Suriname,Zamora,Estudio,2025-09-04,Auto,Hostal,3,12,505,792,285,10,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+41,Canada,Pastaza,Visita Familia,2025-08-04,Bus,Airbnb,2,15,884,1020,240,6,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+58,Thailand,Riobamba,Estudio,2026-05-04,Motociclista,Hostal,4,1,276,160,66,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+25,Syrian Arab Republic,Cuenca,Vacaciones,2026-04-12,Auto,Airbnb,4,2,628,296,98,4,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+58,Hungary,Riobamba,Aventura,2025-06-23,Avión,Casa huespedes,6,8,701,1920,176,3,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+31,Bhutan,Cuenca,Visita Familia,2025-09-20,Motociclista,Hotel,2,11,125,242,59,2,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+38,Sao Tome and Principe,Pastaza,Estudio,2025-07-27,Auto,Hostal,5,10,1032,1950,143,4,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+54,Mauritania,Quito,Negocios,2026-01-27,Ciclista,Casa huespedes,2,11,616,726,185,4,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+36,Marshall Islands,Cuenca,Visita Familia,2026-02-05,Auto,Hotel,5,12,701,2040,140,4,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+65,Anguilla,Pastaza,Vacaciones,2025-06-05,Ciclista,Casa huespedes,2,9,552,630,198,4,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+56,Anguilla,Baños,Negocios,2025-08-21,Auto,Hostal,6,15,970,1170,204,8,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+37,Cape Verde,Quito,Vacaciones,2026-01-19,Bus,Hotel,6,9,529,1620,79,4,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+64,Hong Kong,Riobamba,Visita Familia,2026-03-08,Ciclista,Airbnb,2,3,811,72,209,5,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+20,Trinidad and Tobago,Baños,Vacaciones,2025-10-01,Bus,Hostal,1,2,335,58,63,4,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+21,Sudan,Baños,Estudio,2026-01-06,Avión,Casa huespedes,4,14,262,2128,66,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+34,Cook Islands,Loja,Vacaciones,2025-12-28,Auto,Resort,5,7,210,1015,278,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+31,Svalbard & Jan Mayen Islands,Cuenca,Vacaciones,2025-11-09,Motociclista,Hotel,4,4,159,352,181,10,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+46,Madagascar,Riobamba,Estudio,2026-03-04,Auto,Hotel,6,5,704,720,300,4,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+57,Isle of Man,Cuenca,Estudio,2025-08-04,Motociclista,Resort,1,2,676,60,163,2,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+21,United Arab Emirates,Pastaza,Vacaciones,2025-11-19,Avión,Airbnb,4,4,672,576,46,9,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+29,Bolivia,Quito,Vacaciones,2025-07-05,Ciclista,Hostal,3,15,532,1575,232,9,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+29,Mongolia,Riobamba,Estudio,2025-09-23,Ciclista,Hostal,5,15,390,1125,115,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+52,Peru,Riobamba,Aventura,2025-08-14,Ciclista,Casa huespedes,1,9,452,261,279,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+43,Norway,Baños,Visita Familia,2026-01-16,Ciclista,Casa huespedes,1,12,946,156,235,2,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+40,United States of America,Manta,Vacaciones,2026-01-31,Ciclista,Resort,5,10,420,700,257,1,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+36,Luxembourg,Riobamba,Estudio,2026-04-08,Bus,Hotel,4,11,540,1188,116,10,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+56,Haiti,Baños,Negocios,2025-08-25,Motociclista,Hostal,5,7,521,455,25,4,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+45,Northern Mariana Islands,Manta,Visita Familia,2025-11-20,Auto,Hostal,2,8,117,384,129,3,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+67,Saint Vincent and the Grenadines,Cuenca,Vacaciones,2025-11-14,Bus,Airbnb,1,7,486,77,54,2,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+39,North Macedonia,Riobamba,Negocios,2025-09-03,Bus,Resort,5,14,526,1260,117,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+42,Trinidad and Tobago,Pastaza,Estudio,2025-10-05,Motociclista,Airbnb,3,2,921,222,75,1,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+51,American Samoa,Zamora,Negocios,2025-11-11,Auto,Hostal,5,15,369,975,269,2,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+32,Faroe Islands,Zamora,Estudio,2026-02-01,Motociclista,Casa huespedes,4,1,453,76,106,2,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,5,Familiar,35,No
+44,Monaco,Zamora,Aventura,2025-08-16,Avión,Hostal,1,6,1191,90,61,3,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+42,Vietnam,Baños,Negocios,2026-04-02,Motociclista,Resort,5,1,449,150,233,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+59,Eritrea,Cuenca,Aventura,2025-07-06,Auto,Resort,5,3,336,345,74,5,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+27,Albania,Quito,Aventura,2026-05-14,Motociclista,Hotel,5,15,470,2250,152,7,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+56,Sudan,Cuenca,Estudio,2025-12-06,Auto,Resort,6,3,559,468,73,2,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+36,Bulgaria,Baños,Estudio,2026-01-21,Bus,Hostal,4,13,798,676,212,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+40,Greenland,Riobamba,Visita Familia,2025-12-01,Avión,Hostal,5,10,1005,1400,191,5,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+60,Qatar,Quito,Visita Familia,2026-01-05,Bus,Casa huespedes,3,11,606,693,95,8,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+52,Kenya,Guayaquil,Estudio,2025-10-29,Bus,Airbnb,5,13,386,1430,65,8,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+19,Mauritius,Baños,Negocios,2025-06-29,Bus,Resort,3,8,601,864,104,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+27,Angola,Manta,Estudio,2025-07-29,Bus,Hostal,4,13,1098,1352,97,10,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+47,Dominican Republic,Cuenca,Vacaciones,2026-03-04,Auto,Hotel,2,13,447,416,285,8,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+22,Mozambique,Riobamba,Estudio,2025-10-12,Auto,Casa huespedes,1,6,703,96,102,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+31,Russian Federation,Guayaquil,Vacaciones,2026-01-22,Motociclista,Hostal,1,6,603,180,70,3,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+42,Turkey,Baños,Estudio,2025-07-15,Avión,Hotel,6,1,107,126,262,4,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+44,Kiribati,Riobamba,Aventura,2025-12-16,Motociclista,Hostal,6,1,732,144,171,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+40,Thailand,Quito,Vacaciones,2026-03-01,Auto,Hostal,5,9,759,1755,232,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+43,Ukraine,Pastaza,Estudio,2025-11-30,Auto,Casa huespedes,4,6,121,792,223,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+24,Niue,Manta,Vacaciones,2025-10-07,Ciclista,Hotel,1,13,325,169,99,1,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+38,Guam,Guayaquil,Aventura,2026-01-18,Ciclista,Resort,1,11,597,110,160,7,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+54,Sao Tome and Principe,Zamora,Aventura,2025-08-22,Bus,Resort,1,13,376,247,181,7,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+40,French Southern Territories,Loja,Vacaciones,2025-05-29,Auto,Casa huespedes,2,13,1169,884,58,8,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+62,Slovakia (Slovak Republic),Pastaza,Visita Familia,2026-01-14,Motociclista,Hotel,5,3,389,435,268,5,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,1,4 estrellas,90,Sí
+64,Cameroon,Cuenca,Vacaciones,2025-09-14,Motociclista,Resort,5,8,367,1320,155,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+31,Dominican Republic,Guayaquil,Visita Familia,2026-03-22,Avión,Casa huespedes,2,6,634,348,180,5,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+20,Western Sahara,Quito,Visita Familia,2025-05-27,Avión,Casa huespedes,6,8,502,1344,176,10,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+48,Iran,Zamora,Aventura,2025-12-18,Avión,Resort,6,3,824,540,173,6,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+41,Botswana,Manta,Vacaciones,2026-02-08,Bus,Hostal,2,14,526,784,78,4,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+35,Solomon Islands,Guayaquil,Negocios,2026-04-27,Bus,Resort,1,7,362,154,211,5,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+39,Sri Lanka,Loja,Visita Familia,2025-09-06,Ciclista,Airbnb,6,6,753,1440,47,10,4,Loja,Sierra,Templado,2100,Turismo Cultural,3,Privado,50,Depende
+49,Andorra,Quito,Negocios,2025-08-27,Ciclista,Casa huespedes,5,15,1046,2925,239,9,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+68,Palau,Baños,Estudio,2025-06-23,Avión,Hostal,4,10,678,1440,36,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+39,Antarctica (the territory South of 60 deg S),Quito,Estudio,2026-04-30,Ciclista,Casa huespedes,1,3,160,99,212,5,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+22,Kyrgyz Republic,Zamora,Estudio,2025-11-22,Avión,Airbnb,1,8,167,160,265,1,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+58,Nigeria,Quito,Visita Familia,2026-01-22,Bus,Hotel,4,7,292,1120,44,4,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+62,Syrian Arab Republic,Riobamba,Aventura,2026-05-17,Auto,Hostal,4,9,664,648,50,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+67,Mongolia,Loja,Negocios,2025-08-21,Bus,Resort,3,7,695,483,40,2,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+20,Switzerland,Manta,Visita Familia,2025-07-02,Bus,Hotel,2,13,208,338,182,6,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+64,Rwanda,Cuenca,Negocios,2025-09-23,Bus,Casa huespedes,2,5,1039,340,219,1,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+32,Estonia,Baños,Aventura,2025-11-29,Auto,Hotel,1,12,925,384,124,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+34,Ethiopia,Manta,Visita Familia,2025-10-06,Avión,Hostal,1,3,654,33,49,4,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+19,Swaziland,Cuenca,Visita Familia,2026-02-03,Avión,Hotel,1,15,773,570,64,1,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+32,Tajikistan,Pastaza,Vacaciones,2026-05-19,Bus,Casa huespedes,3,15,194,1530,257,2,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+29,Norway,Pastaza,Vacaciones,2025-12-01,Avión,Hotel,3,12,947,936,63,2,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,1,4 estrellas,90,Sí
+40,Sweden,Guayaquil,Estudio,2025-08-07,Ciclista,Hotel,5,7,460,700,146,9,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+23,Saint Lucia,Baños,Estudio,2025-08-24,Avión,Hotel,3,15,229,1125,242,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+48,Kazakhstan,Baños,Visita Familia,2026-05-23,Motociclista,Hotel,6,6,788,1332,282,8,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+66,Equatorial Guinea,Guayaquil,Aventura,2026-01-31,Avión,Resort,5,8,1009,1400,223,6,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+56,British Virgin Islands,Quito,Estudio,2026-02-28,Avión,Resort,4,2,790,136,264,4,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+19,Antigua and Barbuda,Cuenca,Vacaciones,2025-10-02,Ciclista,Resort,3,11,617,858,188,6,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+61,Hong Kong,Quito,Vacaciones,2025-11-04,Avión,Airbnb,3,4,150,252,220,7,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+70,Heard Island and McDonald Islands,Zamora,Visita Familia,2025-11-09,Auto,Resort,5,5,872,550,81,1,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+19,Myanmar,Manta,Visita Familia,2025-12-19,Auto,Casa huespedes,3,9,482,891,269,10,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+43,Aruba,Baños,Negocios,2026-01-12,Avión,Resort,3,3,1067,126,104,8,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+53,Haiti,Quito,Aventura,2025-07-03,Motociclista,Airbnb,1,14,1199,224,231,10,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+37,British Virgin Islands,Loja,Aventura,2025-07-30,Motociclista,Resort,4,8,996,320,176,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+51,Cook Islands,Pastaza,Estudio,2026-04-18,Avión,Airbnb,1,3,186,114,230,3,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+21,Central African Republic,Guayaquil,Vacaciones,2026-01-09,Bus,Casa huespedes,5,9,1198,1485,278,4,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+70,Jersey,Baños,Negocios,2025-10-29,Auto,Hotel,3,9,1163,756,46,9,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+68,Sao Tome and Principe,Quito,Visita Familia,2025-05-30,Ciclista,Resort,4,1,1082,80,196,2,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+19,Andorra,Pastaza,Estudio,2025-07-02,Avión,Hostal,3,1,499,102,296,10,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+39,Slovenia,Cuenca,Visita Familia,2025-06-09,Ciclista,Resort,2,9,317,630,166,8,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+67,Lesotho,Cuenca,Estudio,2025-11-05,Motociclista,Resort,3,9,115,270,36,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+54,Uruguay,Guayaquil,Estudio,2025-11-16,Motociclista,Casa huespedes,4,15,329,2160,42,2,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+36,Samoa,Loja,Vacaciones,2026-03-16,Avión,Hostal,4,15,145,2400,65,5,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+53,Somalia,Loja,Visita Familia,2026-03-19,Ciclista,Hostal,5,12,796,2400,184,4,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+27,Rwanda,Otavalo,Estudio,2025-09-18,Bus,Resort,5,14,319,2100,58,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+65,Lithuania,Riobamba,Vacaciones,2026-02-26,Bus,Hotel,1,15,670,570,211,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+38,Saint Kitts and Nevis,Baños,Estudio,2026-05-02,Auto,Hotel,3,12,972,396,68,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+66,Gabon,Riobamba,Estudio,2026-03-26,Bus,Hostal,5,12,1036,2280,125,10,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+23,Kuwait,Riobamba,Visita Familia,2026-01-31,Avión,Casa huespedes,3,15,997,1035,228,10,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+19,Saint Vincent and the Grenadines,Guayaquil,Visita Familia,2025-05-23,Ciclista,Resort,3,8,497,912,154,5,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+43,Mauritania,Manta,Visita Familia,2025-08-27,Ciclista,Hotel,5,5,361,500,274,9,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+49,South Georgia and the South Sandwich Islands,Manta,Negocios,2025-11-21,Auto,Casa huespedes,3,6,964,684,34,3,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+67,Lao People's Democratic Republic,Manta,Estudio,2025-11-18,Avión,Hotel,3,8,749,480,185,4,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+36,Paraguay,Quito,Estudio,2025-11-13,Motociclista,Airbnb,1,6,913,228,80,5,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+25,Uganda,Quito,Vacaciones,2025-10-30,Ciclista,Hotel,4,1,187,144,272,8,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+54,Moldova,Riobamba,Aventura,2026-02-28,Auto,Resort,5,15,601,1125,39,5,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+21,North Macedonia,Riobamba,Negocios,2025-10-21,Auto,Airbnb,6,3,886,288,108,6,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+33,Sri Lanka,Baños,Visita Familia,2025-08-21,Avión,Casa huespedes,5,1,124,85,112,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+69,Swaziland,Quito,Negocios,2025-06-28,Motociclista,Airbnb,5,10,1055,1400,296,8,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+63,Malta,Manta,Estudio,2026-05-05,Auto,Hostal,2,7,234,196,22,5,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+37,Nauru,Manta,Visita Familia,2026-03-04,Motociclista,Hostal,6,10,818,1560,146,6,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+61,Russian Federation,Loja,Estudio,2025-08-16,Motociclista,Hotel,4,7,613,868,34,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+65,Mexico,Zamora,Negocios,2026-03-18,Avión,Hotel,6,14,1043,1176,36,10,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+67,Syrian Arab Republic,Loja,Aventura,2026-01-27,Auto,Airbnb,5,10,210,1250,189,7,4,Loja,Sierra,Templado,2100,Turismo Cultural,3,Privado,50,Depende
+26,Norway,Riobamba,Vacaciones,2025-09-16,Ciclista,Resort,1,5,196,80,187,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+43,Hungary,Zamora,Visita Familia,2026-05-15,Motociclista,Airbnb,3,7,169,714,295,8,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+48,China,Baños,Estudio,2025-09-19,Auto,Hotel,2,3,549,204,118,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+30,New Caledonia,Riobamba,Visita Familia,2025-12-22,Bus,Resort,2,11,408,814,281,3,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+53,Bolivia,Quito,Vacaciones,2026-05-12,Motociclista,Hostal,3,3,282,117,245,7,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+69,Dominican Republic,Cuenca,Visita Familia,2025-10-01,Auto,Airbnb,3,7,794,399,280,2,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+56,Saint Barthelemy,Guayaquil,Estudio,2025-07-16,Bus,Hotel,4,13,628,1092,139,3,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+26,Libyan Arab Jamahiriya,Zamora,Negocios,2026-05-21,Auto,Hotel,2,8,661,224,286,9,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+51,Croatia,Zamora,Negocios,2025-10-14,Bus,Airbnb,4,12,895,480,139,8,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+44,Argentina,Manta,Vacaciones,2026-01-11,Auto,Resort,1,7,611,154,52,10,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+70,Holy See (Vatican City State),Manta,Vacaciones,2025-06-28,Bus,Hostal,5,2,130,150,192,7,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+22,Tajikistan,Loja,Estudio,2025-09-25,Auto,Hotel,5,1,973,185,202,10,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+62,Comoros,Zamora,Negocios,2025-08-14,Auto,Hostal,2,5,511,290,162,5,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+21,Niue,Riobamba,Negocios,2026-02-02,Ciclista,Resort,6,3,1119,594,154,3,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+62,Mali,Pastaza,Aventura,2025-12-04,Avión,Resort,4,7,161,672,237,3,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+47,Serbia,Loja,Vacaciones,2025-11-02,Motociclista,Hostal,1,15,366,180,66,4,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+27,Haiti,Loja,Visita Familia,2026-03-10,Avión,Hotel,5,13,180,2470,143,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+49,Mayotte,Manta,Aventura,2025-08-09,Bus,Airbnb,5,2,1104,200,88,2,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+19,Martinique,Zamora,Vacaciones,2025-10-25,Motociclista,Resort,6,15,564,1440,277,4,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+68,Korea,Riobamba,Vacaciones,2025-09-20,Bus,Resort,5,2,585,350,71,4,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+46,Honduras,Guayaquil,Visita Familia,2026-04-08,Motociclista,Hotel,1,5,1157,110,207,1,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+30,China,Pastaza,Estudio,2025-09-11,Bus,Airbnb,1,7,224,112,201,6,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+31,Guadeloupe,Cuenca,Visita Familia,2026-02-19,Ciclista,Airbnb,2,7,506,308,104,4,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+37,Puerto Rico,Baños,Visita Familia,2026-02-11,Ciclista,Hostal,2,6,358,216,279,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+34,New Zealand,Guayaquil,Vacaciones,2026-02-26,Avión,Hostal,4,12,566,1728,178,10,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+29,Ecuador,Manta,Estudio,2025-10-09,Auto,Airbnb,3,4,188,180,198,2,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+60,Pitcairn Islands,Loja,Negocios,2025-11-14,Ciclista,Airbnb,1,10,110,330,204,8,4,Loja,Sierra,Templado,2100,Turismo Cultural,3,Privado,50,Depende
+69,Papua New Guinea,Riobamba,Estudio,2025-06-04,Bus,Airbnb,2,13,948,650,234,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+35,Thailand,Baños,Aventura,2026-05-11,Auto,Hotel,2,5,201,240,185,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+70,Zambia,Pastaza,Visita Familia,2026-01-30,Ciclista,Hostal,2,12,1116,648,260,7,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+33,Argentina,Loja,Visita Familia,2026-01-24,Avión,Hotel,5,15,1011,1875,184,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+49,Christmas Island,Loja,Visita Familia,2025-12-24,Motociclista,Resort,4,2,425,152,125,10,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+50,Cook Islands,Riobamba,Aventura,2026-05-03,Bus,Resort,1,10,717,360,108,3,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+32,Paraguay,Baños,Estudio,2026-01-29,Motociclista,Airbnb,5,6,399,1140,298,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+37,Lithuania,Guayaquil,Aventura,2026-03-18,Avión,Airbnb,5,13,576,2405,170,2,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+46,Svalbard & Jan Mayen Islands,Otavalo,Visita Familia,2025-11-18,Bus,Casa huespedes,4,15,1020,1500,198,7,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,5,Familiar,35,No
+57,Holy See (Vatican City State),Riobamba,Negocios,2026-04-18,Ciclista,Resort,6,14,685,2940,130,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+60,Isle of Man,Baños,Vacaciones,2025-11-25,Bus,Hostal,5,2,389,360,131,1,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+42,Bouvet Island (Bouvetoya),Loja,Estudio,2025-07-03,Motociclista,Hostal,3,11,504,660,296,7,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+66,Singapore,Cuenca,Aventura,2025-11-27,Auto,Casa huespedes,4,5,435,240,258,8,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+69,North Macedonia,Otavalo,Negocios,2025-08-06,Avión,Airbnb,1,12,981,444,252,6,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+57,Christmas Island,Quito,Estudio,2025-06-26,Ciclista,Resort,3,12,733,1332,158,2,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+18,Chile,Quito,Visita Familia,2026-02-12,Auto,Casa huespedes,6,5,1028,570,26,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+26,Dominican Republic,Loja,Vacaciones,2026-03-14,Auto,Hotel,2,12,245,336,40,7,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+57,San Marino,Guayaquil,Estudio,2026-04-17,Bus,Resort,3,15,315,855,212,2,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+37,Denmark,Otavalo,Estudio,2025-08-31,Motociclista,Resort,2,13,272,650,94,5,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+46,Benin,Loja,Negocios,2025-07-25,Auto,Airbnb,2,2,922,40,25,2,4,Loja,Sierra,Templado,2100,Turismo Cultural,3,Privado,50,Depende
+54,Jamaica,Pastaza,Vacaciones,2025-11-17,Bus,Airbnb,6,2,219,408,213,4,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+54,Lithuania,Loja,Negocios,2025-07-06,Ciclista,Hotel,6,5,229,540,115,9,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+59,Mexico,Baños,Negocios,2026-01-31,Auto,Airbnb,1,5,104,85,274,3,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+39,Poland,Otavalo,Estudio,2025-12-26,Avión,Resort,1,5,704,175,220,5,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+47,Netherlands,Quito,Visita Familia,2026-05-01,Bus,Hotel,2,3,801,72,246,5,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+22,Guinea,Zamora,Negocios,2026-04-04,Auto,Casa huespedes,4,3,356,408,130,10,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,5,Familiar,35,No
+39,Iran,Loja,Vacaciones,2025-12-01,Bus,Resort,6,13,564,1950,138,2,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+68,Grenada,Baños,Aventura,2026-04-14,Motociclista,Hostal,5,1,297,90,189,9,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+64,Iran,Manta,Estudio,2025-08-13,Bus,Airbnb,2,7,639,476,27,4,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+26,Zambia,Baños,Vacaciones,2026-02-11,Bus,Airbnb,3,12,273,1116,273,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+34,Switzerland,Riobamba,Visita Familia,2026-04-12,Avión,Hotel,4,9,801,1080,210,3,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+58,Togo,Guayaquil,Vacaciones,2026-05-13,Motociclista,Hostal,1,14,537,350,152,10,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+18,American Samoa,Riobamba,Aventura,2025-06-23,Ciclista,Casa huespedes,4,1,811,148,300,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+44,Trinidad and Tobago,Pastaza,Visita Familia,2026-04-17,Motociclista,Casa huespedes,5,14,544,2030,116,9,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+64,Hungary,Quito,Visita Familia,2025-12-25,Ciclista,Resort,2,8,338,304,154,9,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+56,Iran,Quito,Negocios,2026-04-19,Motociclista,Airbnb,3,6,177,504,95,9,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+46,Saint Lucia,Loja,Visita Familia,2026-01-05,Auto,Casa huespedes,6,1,716,102,283,8,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+61,British Indian Ocean Territory (Chagos Archipelago),Baños,Visita Familia,2026-01-31,Bus,Resort,4,15,300,2400,235,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+41,Mauritania,Baños,Estudio,2026-04-06,Bus,Hostal,1,9,1032,261,262,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+56,Qatar,Riobamba,Visita Familia,2026-01-11,Auto,Resort,2,6,132,408,291,5,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+63,Morocco,Quito,Estudio,2025-11-02,Auto,Hostal,1,5,609,180,177,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+32,British Virgin Islands,Otavalo,Estudio,2026-02-10,Motociclista,Airbnb,4,6,495,648,273,4,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+25,Venezuela,Zamora,Negocios,2025-07-25,Motociclista,Casa huespedes,6,15,377,3150,152,4,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,5,Familiar,35,No
+67,Algeria,Baños,Visita Familia,2026-02-08,Motociclista,Airbnb,5,7,220,665,69,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+57,Gambia,Quito,Vacaciones,2026-03-22,Bus,Resort,4,6,1055,624,116,5,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+18,Equatorial Guinea,Guayaquil,Aventura,2025-08-12,Auto,Airbnb,5,14,639,2380,221,1,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+18,Belgium,Baños,Estudio,2025-07-01,Auto,Hostal,6,10,360,1620,225,9,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+68,Guam,Cuenca,Vacaciones,2026-04-11,Avión,Hostal,2,7,129,196,176,8,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+23,Sri Lanka,Loja,Estudio,2025-06-02,Bus,Hostal,3,13,760,702,172,4,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+62,Benin,Quito,Estudio,2026-02-14,Bus,Resort,2,12,139,912,139,1,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+40,Cambodia,Otavalo,Vacaciones,2026-02-02,Auto,Hotel,6,8,1038,1584,134,4,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+50,Bangladesh,Loja,Estudio,2026-04-01,Motociclista,Casa huespedes,5,10,364,1100,221,10,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+41,Netherlands Antilles,Pastaza,Negocios,2025-11-09,Auto,Hostal,6,11,829,858,223,5,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+46,South Africa,Riobamba,Visita Familia,2025-09-12,Bus,Airbnb,5,8,290,560,216,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+61,United States Virgin Islands,Loja,Negocios,2026-01-02,Motociclista,Hotel,6,12,400,1224,299,5,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+47,Nepal,Cuenca,Vacaciones,2025-08-14,Motociclista,Hostal,5,9,1134,675,258,6,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+29,Cyprus,Riobamba,Visita Familia,2025-10-25,Ciclista,Casa huespedes,6,6,676,1116,174,5,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+18,Paraguay,Riobamba,Vacaciones,2026-02-28,Bus,Casa huespedes,3,12,762,468,34,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+34,Denmark,Otavalo,Negocios,2026-03-02,Ciclista,Resort,4,1,875,72,188,6,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+66,Israel,Baños,Negocios,2025-11-12,Avión,Casa huespedes,1,3,425,114,86,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+21,Puerto Rico,Otavalo,Negocios,2026-02-05,Auto,Hostal,6,13,817,2808,147,4,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+41,United States Minor Outlying Islands,Guayaquil,Vacaciones,2025-06-08,Ciclista,Airbnb,2,3,260,162,240,1,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+67,Gabon,Manta,Negocios,2025-12-15,Auto,Hostal,2,13,114,832,182,10,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+48,Mozambique,Pastaza,Vacaciones,2025-09-05,Auto,Airbnb,6,8,689,576,68,9,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+43,Panama,Baños,Aventura,2026-05-02,Ciclista,Casa huespedes,5,6,138,750,32,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+60,Brunei Darussalam,Cuenca,Visita Familia,2026-03-29,Motociclista,Resort,6,14,401,1428,240,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+44,Greenland,Quito,Vacaciones,2026-05-15,Bus,Resort,2,14,156,1008,174,1,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+67,Mali,Manta,Estudio,2025-06-11,Auto,Hostal,5,1,343,140,169,8,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+19,Equatorial Guinea,Guayaquil,Negocios,2026-03-01,Auto,Airbnb,3,1,324,54,93,3,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+23,Dominica,Baños,Aventura,2025-06-03,Bus,Resort,3,7,241,273,125,9,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+54,Martinique,Quito,Visita Familia,2026-05-13,Ciclista,Casa huespedes,4,3,519,144,241,8,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+53,Botswana,Manta,Estudio,2026-05-08,Auto,Casa huespedes,1,11,230,319,198,5,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+62,Swaziland,Cuenca,Estudio,2025-08-08,Bus,Hostal,4,15,550,1020,29,9,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+66,Saint Helena,Otavalo,Visita Familia,2026-01-23,Motociclista,Hotel,5,13,694,2015,256,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+51,Greenland,Otavalo,Vacaciones,2026-01-19,Bus,Hotel,4,10,275,1120,176,5,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+48,Micronesia,Pastaza,Negocios,2026-03-30,Bus,Hostal,5,3,226,375,96,2,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+37,Azerbaijan,Riobamba,Vacaciones,2025-07-10,Bus,Airbnb,6,13,808,2106,32,9,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+32,Saint Lucia,Zamora,Negocios,2025-06-18,Avión,Casa huespedes,1,6,1133,210,197,1,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,5,Familiar,35,No
+65,Qatar,Guayaquil,Vacaciones,2026-04-24,Ciclista,Resort,5,7,354,1015,280,8,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+64,Japan,Quito,Estudio,2025-09-07,Motociclista,Resort,1,3,214,90,229,6,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+45,Mongolia,Cuenca,Estudio,2026-05-16,Avión,Casa huespedes,2,5,787,310,149,4,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+31,Mali,Pastaza,Aventura,2025-09-01,Auto,Hostal,3,8,467,432,239,4,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+54,Sri Lanka,Baños,Negocios,2025-07-11,Auto,Airbnb,4,15,287,1080,141,2,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+64,Hong Kong,Guayaquil,Aventura,2025-07-21,Bus,Casa huespedes,5,6,623,450,30,1,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+27,Barbados,Baños,Negocios,2026-05-07,Bus,Hostal,1,3,853,39,118,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+57,United States Virgin Islands,Riobamba,Negocios,2026-01-14,Auto,Hotel,6,2,448,156,71,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+55,China,Guayaquil,Aventura,2026-01-27,Auto,Airbnb,6,4,492,744,188,10,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+62,Belgium,Baños,Estudio,2026-02-21,Bus,Airbnb,1,15,457,375,133,3,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+32,Brazil,Pastaza,Negocios,2025-12-01,Avión,Resort,5,3,729,225,111,1,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+50,Central African Republic,Quito,Negocios,2025-08-01,Ciclista,Airbnb,2,6,910,216,122,9,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+65,Niger,Baños,Visita Familia,2026-05-02,Ciclista,Casa huespedes,3,5,425,525,91,4,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+35,Greenland,Loja,Aventura,2025-12-02,Avión,Resort,6,14,900,1260,287,10,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+27,Kyrgyz Republic,Zamora,Estudio,2026-01-05,Ciclista,Resort,2,4,453,152,82,3,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+45,Burkina Faso,Baños,Aventura,2026-05-08,Auto,Airbnb,2,12,136,312,171,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+32,Angola,Riobamba,Aventura,2026-04-10,Auto,Casa huespedes,3,2,373,234,50,3,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+21,Saudi Arabia,Zamora,Visita Familia,2025-07-13,Bus,Hostal,3,15,907,1620,57,10,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+49,Slovenia,Cuenca,Aventura,2025-09-24,Avión,Resort,2,4,914,288,99,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+18,Bolivia,Cuenca,Negocios,2025-10-18,Auto,Hotel,5,5,392,1000,21,1,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+32,Botswana,Pastaza,Negocios,2025-06-20,Avión,Resort,3,15,730,1620,177,6,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+25,Comoros,Riobamba,Estudio,2026-04-17,Auto,Hotel,4,9,1132,1044,296,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+20,Samoa,Guayaquil,Vacaciones,2025-07-15,Avión,Airbnb,4,8,470,1184,231,7,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+62,Iraq,Otavalo,Estudio,2025-12-29,Bus,Resort,5,11,1200,1045,178,7,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+57,Faroe Islands,Loja,Vacaciones,2026-05-13,Ciclista,Airbnb,2,2,300,96,37,1,4,Loja,Sierra,Templado,2100,Turismo Cultural,3,Privado,50,Depende
+27,Wallis and Futuna,Quito,Visita Familia,2026-01-26,Auto,Airbnb,3,7,698,462,167,10,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+61,Bahrain,Cuenca,Vacaciones,2025-11-23,Ciclista,Hostal,3,5,136,330,144,10,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+53,South Africa,Pastaza,Visita Familia,2025-08-24,Bus,Resort,1,14,1014,448,131,5,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+64,Canada,Zamora,Visita Familia,2025-10-08,Bus,Hotel,2,6,784,456,92,2,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+21,Andorra,Manta,Vacaciones,2026-02-19,Ciclista,Airbnb,2,7,347,518,205,2,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+61,Antigua and Barbuda,Riobamba,Vacaciones,2025-09-09,Bus,Airbnb,1,8,369,128,31,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+22,Guernsey,Quito,Aventura,2026-04-07,Ciclista,Resort,2,4,755,144,54,6,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+66,Somalia,Baños,Negocios,2025-12-11,Bus,Casa huespedes,5,2,535,300,164,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+57,Bolivia,Riobamba,Negocios,2025-07-06,Ciclista,Casa huespedes,4,9,904,612,81,6,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+64,Rwanda,Pastaza,Vacaciones,2026-01-13,Bus,Hostal,1,15,573,435,47,10,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+47,Thailand,Otavalo,Estudio,2025-09-09,Bus,Resort,5,3,884,225,112,4,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+58,Chile,Riobamba,Aventura,2026-04-07,Avión,Hotel,3,14,629,798,104,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+23,Costa Rica,Manta,Aventura,2026-04-23,Bus,Casa huespedes,1,5,423,125,186,6,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+40,Hong Kong,Riobamba,Vacaciones,2026-03-25,Avión,Hostal,4,1,826,156,34,6,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+26,Cook Islands,Guayaquil,Estudio,2025-06-29,Ciclista,Resort,2,11,333,704,165,10,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+18,Gambia,Riobamba,Estudio,2025-09-18,Motociclista,Casa huespedes,3,8,831,504,155,10,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+44,El Salvador,Baños,Vacaciones,2025-10-01,Avión,Hotel,6,5,504,300,79,1,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+68,Bolivia,Loja,Visita Familia,2026-04-29,Ciclista,Hostal,2,1,556,50,128,1,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+28,Colombia,Manta,Negocios,2026-04-13,Ciclista,Resort,2,1,1195,60,251,5,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+30,American Samoa,Baños,Visita Familia,2025-10-30,Ciclista,Hotel,2,9,391,558,193,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+48,Spain,Quito,Aventura,2026-01-09,Motociclista,Casa huespedes,3,2,751,66,139,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+50,Madagascar,Pastaza,Negocios,2025-07-27,Ciclista,Airbnb,2,9,702,504,134,3,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+54,Puerto Rico,Zamora,Negocios,2025-07-24,Avión,Casa huespedes,3,12,379,540,26,3,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,5,Familiar,35,No
+18,Colombia,Baños,Vacaciones,2026-01-19,Bus,Hostal,3,7,872,840,278,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+68,Aruba,Loja,Aventura,2025-05-29,Avión,Airbnb,5,3,246,420,74,4,4,Loja,Sierra,Templado,2100,Turismo Cultural,3,Privado,50,Depende
+20,Mexico,Otavalo,Vacaciones,2026-04-16,Motociclista,Resort,6,3,731,558,200,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+24,Montserrat,Pastaza,Negocios,2026-02-02,Avión,Resort,2,4,800,248,65,4,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+38,French Polynesia,Cuenca,Aventura,2026-03-29,Auto,Casa huespedes,2,7,463,252,141,2,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+44,Zimbabwe,Pastaza,Visita Familia,2025-07-03,Motociclista,Casa huespedes,5,12,237,1560,194,2,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+52,Tokelau,Riobamba,Aventura,2026-01-31,Motociclista,Resort,6,8,593,1248,100,10,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+35,Belgium,Guayaquil,Visita Familia,2025-06-17,Bus,Resort,6,3,905,198,97,5,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+24,Namibia,Cuenca,Vacaciones,2025-11-17,Auto,Airbnb,2,11,433,770,239,7,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+40,Vietnam,Loja,Estudio,2025-10-20,Bus,Resort,2,12,998,720,140,1,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+41,Tanzania,Pastaza,Negocios,2026-03-02,Bus,Casa huespedes,5,3,461,360,196,10,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+33,Serbia,Otavalo,Vacaciones,2025-09-25,Avión,Resort,2,3,832,222,164,9,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+18,Tokelau,Baños,Aventura,2026-01-05,Bus,Hotel,1,15,803,570,53,9,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+65,Cyprus,Guayaquil,Negocios,2026-01-11,Bus,Hostal,4,12,870,1680,179,10,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+39,Uzbekistan,Guayaquil,Vacaciones,2026-01-07,Motociclista,Airbnb,5,12,1193,2280,202,3,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+35,Indonesia,Zamora,Aventura,2025-12-20,Ciclista,Airbnb,3,9,873,675,286,6,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+52,Bhutan,Loja,Vacaciones,2026-02-21,Avión,Casa huespedes,5,11,1023,1485,25,5,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+69,Equatorial Guinea,Zamora,Aventura,2025-07-20,Bus,Hostal,1,11,387,242,156,2,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+41,Liberia,Loja,Vacaciones,2025-12-01,Ciclista,Resort,5,5,694,775,98,10,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+35,South Georgia and the South Sandwich Islands,Otavalo,Negocios,2025-06-22,Avión,Hostal,5,15,277,2475,34,6,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+70,Saint Vincent and the Grenadines,Riobamba,Aventura,2025-10-25,Motociclista,Hotel,1,15,292,495,291,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+27,Equatorial Guinea,Otavalo,Estudio,2026-05-05,Ciclista,Hostal,2,13,139,468,142,8,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+54,South Africa,Baños,Vacaciones,2026-01-12,Avión,Hotel,5,11,140,1100,280,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+57,American Samoa,Manta,Visita Familia,2025-05-30,Bus,Airbnb,4,10,335,1360,296,7,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+36,Cote d'Ivoire,Manta,Negocios,2025-10-28,Avión,Casa huespedes,3,3,592,297,119,3,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+31,British Virgin Islands,Manta,Visita Familia,2025-06-09,Ciclista,Resort,4,15,153,2100,276,3,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+66,Yemen,Riobamba,Visita Familia,2025-08-11,Avión,Hostal,5,10,981,1050,273,10,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+37,Israel,Baños,Aventura,2026-04-23,Auto,Resort,3,15,985,1170,25,9,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+46,Bermuda,Otavalo,Estudio,2026-04-03,Avión,Casa huespedes,5,12,300,2160,292,8,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,5,Familiar,35,No
+65,Norway,Baños,Negocios,2026-03-30,Auto,Airbnb,5,10,925,1450,72,1,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+29,Ethiopia,Cuenca,Aventura,2025-05-30,Motociclista,Hotel,4,12,175,1008,119,9,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+68,Japan,Riobamba,Aventura,2026-05-19,Motociclista,Hotel,3,14,404,798,274,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+65,Czech Republic,Quito,Vacaciones,2025-08-07,Ciclista,Casa huespedes,4,6,237,888,111,1,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+43,Saint Vincent and the Grenadines,Riobamba,Estudio,2025-07-13,Auto,Resort,4,15,275,1500,97,6,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+47,Guinea-Bissau,Zamora,Visita Familia,2025-10-05,Avión,Airbnb,1,6,1184,102,102,1,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+40,Cook Islands,Manta,Aventura,2025-10-15,Ciclista,Airbnb,1,9,675,360,120,4,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+43,Belgium,Baños,Vacaciones,2026-02-02,Bus,Hotel,2,5,777,190,177,4,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+32,French Polynesia,Zamora,Visita Familia,2025-11-02,Avión,Airbnb,1,13,818,273,60,4,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+60,French Southern Territories,Pastaza,Visita Familia,2025-09-04,Avión,Resort,3,10,992,540,89,1,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+53,Tuvalu,Otavalo,Aventura,2025-09-24,Motociclista,Hostal,2,5,658,400,108,9,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+24,Jamaica,Manta,Aventura,2025-07-31,Bus,Airbnb,3,3,947,135,138,3,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+49,Montenegro,Zamora,Visita Familia,2025-07-16,Ciclista,Hotel,4,13,1099,1040,280,3,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+65,Angola,Riobamba,Visita Familia,2025-10-17,Ciclista,Airbnb,1,15,473,540,269,9,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+58,Mauritania,Manta,Visita Familia,2025-11-27,Motociclista,Casa huespedes,3,2,114,96,278,2,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+51,United States Virgin Islands,Riobamba,Vacaciones,2026-02-09,Avión,Hostal,5,14,405,1330,58,9,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+46,Andorra,Otavalo,Negocios,2026-04-18,Motociclista,Resort,2,14,514,1092,165,8,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+38,Croatia,Zamora,Visita Familia,2026-03-22,Avión,Casa huespedes,2,1,301,80,115,9,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,5,Familiar,35,No
+26,Mayotte,Otavalo,Aventura,2025-05-25,Avión,Airbnb,3,5,395,180,151,6,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+65,French Guiana,Riobamba,Aventura,2026-04-28,Bus,Casa huespedes,4,11,237,1056,126,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+34,Kazakhstan,Otavalo,Negocios,2026-05-23,Avión,Hostal,4,1,809,40,230,3,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+59,Mauritius,Zamora,Aventura,2026-05-17,Auto,Airbnb,3,11,476,792,186,3,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+66,Guadeloupe,Otavalo,Vacaciones,2025-10-27,Avión,Casa huespedes,5,8,803,1440,264,3,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,5,Familiar,35,No
+31,Lao People's Democratic Republic,Riobamba,Estudio,2026-04-28,Motociclista,Airbnb,6,10,1058,1200,133,6,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+39,Macao,Baños,Visita Familia,2025-06-24,Auto,Resort,1,12,646,288,33,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+53,Syrian Arab Republic,Guayaquil,Estudio,2026-04-15,Avión,Hotel,5,1,520,90,80,1,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+44,Somalia,Manta,Vacaciones,2025-08-17,Avión,Casa huespedes,3,15,193,1665,224,7,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+26,British Virgin Islands,Otavalo,Visita Familia,2025-12-28,Ciclista,Resort,3,1,1073,42,176,9,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+60,Azerbaijan,Pastaza,Vacaciones,2025-12-01,Motociclista,Casa huespedes,4,9,535,936,245,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+48,Kazakhstan,Manta,Estudio,2025-06-22,Ciclista,Hostal,2,4,953,112,174,10,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+32,Zambia,Otavalo,Visita Familia,2026-02-09,Avión,Hotel,6,11,583,2442,43,7,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+26,Saint Pierre and Miquelon,Loja,Estudio,2026-03-23,Bus,Casa huespedes,1,12,397,312,173,8,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+59,Cayman Islands,Guayaquil,Aventura,2025-09-18,Auto,Casa huespedes,1,7,564,189,266,8,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+23,Anguilla,Riobamba,Aventura,2025-12-28,Ciclista,Resort,4,7,153,672,266,9,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+69,Equatorial Guinea,Manta,Aventura,2025-12-20,Avión,Hotel,1,5,521,185,271,3,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+62,Nepal,Otavalo,Vacaciones,2026-01-13,Auto,Hotel,5,14,330,980,201,9,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+29,Bhutan,Zamora,Negocios,2025-08-21,Motociclista,Resort,1,3,722,51,254,7,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+64,Malawi,Otavalo,Negocios,2025-11-23,Avión,Hotel,2,5,857,370,282,5,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+35,Grenada,Pastaza,Negocios,2025-09-22,Ciclista,Resort,2,15,880,1020,209,10,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+66,Indonesia,Manta,Estudio,2025-05-30,Bus,Airbnb,5,14,368,1750,70,8,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+50,Central African Republic,Baños,Visita Familia,2026-02-21,Avión,Resort,4,8,855,352,220,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+37,Papua New Guinea,Quito,Visita Familia,2025-07-27,Ciclista,Hostal,6,8,792,1584,97,1,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+61,Romania,Guayaquil,Estudio,2025-07-05,Avión,Resort,2,2,270,48,88,10,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+18,South Georgia and the South Sandwich Islands,Manta,Aventura,2025-12-10,Avión,Hotel,2,7,318,224,189,10,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+32,Papua New Guinea,Guayaquil,Visita Familia,2026-02-02,Bus,Airbnb,3,10,534,1020,208,8,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+50,Serbia,Loja,Vacaciones,2026-04-28,Auto,Casa huespedes,3,10,726,870,136,2,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+18,Saint Martin,Baños,Negocios,2025-06-09,Motociclista,Casa huespedes,2,1,1097,38,242,3,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+58,French Polynesia,Quito,Aventura,2025-10-06,Auto,Casa huespedes,5,14,862,1120,216,6,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+27,Solomon Islands,Riobamba,Vacaciones,2025-08-18,Auto,Hostal,2,15,190,1050,265,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+67,Somalia,Baños,Vacaciones,2025-11-22,Motociclista,Hostal,4,10,534,600,44,2,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+25,New Caledonia,Guayaquil,Aventura,2026-02-27,Motociclista,Hostal,3,9,1041,324,140,7,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+18,Lesotho,Pastaza,Estudio,2025-11-11,Motociclista,Casa huespedes,2,9,783,234,297,9,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+48,Guadeloupe,Riobamba,Negocios,2025-11-05,Avión,Hostal,6,12,293,1224,244,4,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+64,Mayotte,Loja,Vacaciones,2025-06-06,Bus,Casa huespedes,4,13,510,1872,216,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+46,Tonga,Zamora,Aventura,2026-05-14,Avión,Airbnb,4,6,191,720,144,8,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+38,Maldives,Manta,Negocios,2025-07-21,Bus,Casa huespedes,4,7,219,392,107,10,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+47,Maldives,Baños,Estudio,2026-01-20,Auto,Hostal,5,2,1107,200,163,2,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+20,Barbados,Zamora,Visita Familia,2026-02-09,Bus,Airbnb,4,11,248,484,30,1,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+67,Kenya,Baños,Aventura,2026-05-14,Bus,Casa huespedes,1,14,471,504,121,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+46,Russian Federation,Zamora,Visita Familia,2025-11-07,Avión,Hotel,1,9,349,279,62,5,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+56,Jamaica,Manta,Vacaciones,2025-12-14,Motociclista,Casa huespedes,4,5,246,660,145,2,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+47,Bosnia and Herzegovina,Pastaza,Vacaciones,2026-01-10,Avión,Airbnb,2,12,358,408,182,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+35,South Africa,Loja,Estudio,2025-10-19,Avión,Resort,6,15,108,1980,101,2,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+54,Peru,Riobamba,Estudio,2025-10-28,Bus,Casa huespedes,6,9,619,1080,147,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+39,Saint Helena,Manta,Negocios,2025-12-16,Motociclista,Hotel,2,3,330,138,174,5,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+57,Denmark,Loja,Vacaciones,2025-05-27,Bus,Casa huespedes,1,4,933,84,190,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+34,French Polynesia,Baños,Vacaciones,2026-01-23,Ciclista,Airbnb,3,10,425,690,127,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+28,Canada,Pastaza,Vacaciones,2026-01-16,Bus,Resort,3,14,566,1386,282,1,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+34,Indonesia,Loja,Vacaciones,2026-03-24,Bus,Resort,4,4,244,352,244,2,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+48,Palestinian Territory,Guayaquil,Aventura,2025-09-08,Auto,Airbnb,6,7,996,420,234,10,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+53,Belize,Manta,Estudio,2025-12-12,Bus,Hostal,1,15,527,510,182,10,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+70,Zimbabwe,Loja,Vacaciones,2025-08-01,Motociclista,Hotel,4,5,1043,660,128,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+54,Vietnam,Loja,Negocios,2026-03-23,Avión,Resort,5,14,679,1190,129,9,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+67,Marshall Islands,Manta,Visita Familia,2026-01-13,Motociclista,Casa huespedes,2,12,686,576,104,9,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+43,Tonga,Zamora,Visita Familia,2026-04-24,Avión,Hostal,1,10,141,160,267,5,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+62,Jamaica,Quito,Vacaciones,2025-09-08,Avión,Casa huespedes,2,15,341,630,102,7,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+64,Albania,Otavalo,Estudio,2025-08-24,Motociclista,Hostal,4,6,790,768,37,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+41,Antigua and Barbuda,Manta,Vacaciones,2025-10-07,Motociclista,Hotel,6,4,932,696,71,8,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+50,Senegal,Zamora,Vacaciones,2025-11-22,Avión,Airbnb,2,11,279,616,51,3,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+43,Marshall Islands,Otavalo,Visita Familia,2025-07-06,Avión,Airbnb,1,4,923,44,42,7,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+70,Uganda,Baños,Estudio,2026-04-15,Auto,Casa huespedes,1,11,187,330,290,6,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+64,Kazakhstan,Riobamba,Aventura,2026-03-27,Motociclista,Resort,2,14,555,308,286,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+33,Svalbard & Jan Mayen Islands,Zamora,Aventura,2025-12-22,Motociclista,Casa huespedes,5,13,113,1105,72,3,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,5,Familiar,35,No
+28,Syrian Arab Republic,Pastaza,Visita Familia,2026-05-09,Ciclista,Hostal,5,1,255,165,104,3,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+70,Uzbekistan,Zamora,Aventura,2025-08-13,Auto,Resort,5,12,612,1260,207,7,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+63,Jordan,Quito,Aventura,2025-12-28,Motociclista,Casa huespedes,5,11,506,1595,39,6,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+45,Afghanistan,Guayaquil,Negocios,2025-06-12,Bus,Resort,6,3,1022,522,274,9,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+31,Sweden,Zamora,Visita Familia,2025-12-23,Bus,Hostal,4,14,445,1400,229,9,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+67,Eritrea,Manta,Visita Familia,2025-11-07,Avión,Casa huespedes,1,15,632,150,218,9,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+45,Senegal,Zamora,Vacaciones,2025-11-07,Bus,Resort,2,10,864,280,142,3,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+44,Turkmenistan,Otavalo,Aventura,2025-11-12,Avión,Airbnb,1,2,652,24,246,3,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+44,Falkland Islands (Malvinas),Cuenca,Negocios,2025-06-07,Bus,Airbnb,3,3,142,270,212,1,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+51,Mozambique,Otavalo,Vacaciones,2026-02-09,Auto,Hostal,5,9,883,1080,67,10,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+43,Guernsey,Loja,Vacaciones,2025-09-29,Bus,Casa huespedes,4,11,311,528,299,3,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+44,Burundi,Guayaquil,Negocios,2026-02-03,Avión,Airbnb,4,13,455,1664,23,3,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+46,Guinea-Bissau,Otavalo,Aventura,2026-04-06,Motociclista,Hostal,1,14,1115,490,96,10,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+70,Seychelles,Loja,Negocios,2025-06-20,Ciclista,Hostal,3,7,771,756,94,7,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+69,Mauritania,Quito,Vacaciones,2025-09-06,Avión,Hotel,6,5,161,960,40,4,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+28,Lebanon,Cuenca,Aventura,2025-08-29,Ciclista,Resort,3,12,399,828,134,5,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+62,Seychelles,Guayaquil,Negocios,2025-12-26,Avión,Hostal,3,5,209,540,138,5,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+58,Norfolk Island,Otavalo,Vacaciones,2026-03-21,Auto,Casa huespedes,5,11,1132,1320,231,7,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,5,Familiar,35,No
+50,Sudan,Pastaza,Estudio,2025-09-14,Bus,Resort,5,7,433,525,167,5,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+34,Bermuda,Quito,Vacaciones,2025-06-04,Ciclista,Hotel,6,8,1054,1440,231,10,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+22,Trinidad and Tobago,Pastaza,Estudio,2025-06-05,Bus,Resort,2,5,371,140,216,10,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+27,Samoa,Baños,Aventura,2025-08-25,Avión,Hotel,1,15,499,330,295,2,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+45,Ukraine,Baños,Vacaciones,2025-09-06,Avión,Resort,4,7,1018,1120,47,3,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+25,Lithuania,Loja,Vacaciones,2025-11-15,Motociclista,Hostal,3,13,1008,897,202,8,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+52,Bahamas,Zamora,Negocios,2026-02-06,Bus,Casa huespedes,4,10,209,760,145,3,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,5,Familiar,35,No
+35,Palestinian Territory,Baños,Aventura,2026-02-11,Bus,Casa huespedes,3,6,575,396,198,9,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+47,Guadeloupe,Zamora,Aventura,2026-05-16,Bus,Hostal,5,11,372,1705,245,7,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+22,Moldova,Manta,Visita Familia,2025-08-22,Ciclista,Hostal,2,9,1189,396,203,6,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+21,Reunion,Otavalo,Negocios,2025-12-30,Ciclista,Hostal,2,2,470,60,57,2,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+51,Seychelles,Otavalo,Estudio,2026-03-09,Auto,Hotel,2,3,204,90,81,8,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+39,Gambia,Riobamba,Negocios,2026-01-01,Motociclista,Hotel,1,12,329,432,220,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+22,Barbados,Loja,Visita Familia,2025-11-15,Avión,Hostal,6,1,1170,210,55,4,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+55,Senegal,Quito,Aventura,2025-07-19,Auto,Hotel,2,6,951,360,150,9,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+56,New Caledonia,Cuenca,Aventura,2025-10-31,Motociclista,Airbnb,2,4,244,272,126,7,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+67,Namibia,Cuenca,Estudio,2025-07-25,Bus,Casa huespedes,6,11,834,1254,165,10,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+44,Mexico,Guayaquil,Visita Familia,2025-10-23,Auto,Airbnb,2,7,1181,252,273,3,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+35,Saint Vincent and the Grenadines,Baños,Aventura,2026-02-01,Avión,Hotel,6,12,823,1080,134,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+53,Maldives,Zamora,Aventura,2025-05-25,Avión,Hotel,2,9,653,522,114,6,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+51,Bosnia and Herzegovina,Pastaza,Negocios,2025-12-15,Ciclista,Airbnb,4,9,396,540,39,4,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+69,Armenia,Guayaquil,Visita Familia,2026-01-31,Bus,Casa huespedes,4,6,184,936,162,6,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+22,Bermuda,Loja,Vacaciones,2026-02-21,Ciclista,Hostal,5,12,160,2100,25,4,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+45,Indonesia,Quito,Negocios,2026-03-25,Ciclista,Resort,4,5,529,480,160,6,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+23,Martinique,Manta,Estudio,2025-06-06,Avión,Airbnb,5,6,203,1080,51,1,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+53,Northern Mariana Islands,Guayaquil,Estudio,2025-08-15,Avión,Hostal,6,8,1143,1104,135,8,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+22,Saint Kitts and Nevis,Guayaquil,Vacaciones,2025-10-02,Auto,Resort,5,12,1025,1080,123,7,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+44,Martinique,Baños,Vacaciones,2025-07-15,Motociclista,Hostal,3,3,470,333,234,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,2,Económico,25,No
+36,Saint Helena,Riobamba,Visita Familia,2025-09-06,Motociclista,Airbnb,4,1,173,144,248,9,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+42,Panama,Manta,Vacaciones,2026-04-23,Bus,Casa huespedes,2,2,661,76,292,1,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+53,Mauritius,Otavalo,Estudio,2025-10-25,Auto,Hotel,3,13,308,1560,99,3,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+54,Eritrea,Cuenca,Negocios,2025-11-15,Ciclista,Airbnb,6,15,907,2070,273,5,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+57,Svalbard & Jan Mayen Islands,Guayaquil,Estudio,2026-03-05,Motociclista,Hostal,4,1,379,80,21,10,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+49,British Indian Ocean Territory (Chagos Archipelago),Otavalo,Negocios,2025-07-30,Avión,Hotel,1,15,651,465,36,5,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+27,Dominican Republic,Riobamba,Aventura,2026-03-03,Auto,Casa huespedes,5,12,972,2220,256,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,5,Familiar,35,No
+58,Swaziland,Pastaza,Negocios,2025-07-22,Bus,Resort,4,4,1050,432,31,9,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+18,Guernsey,Manta,Aventura,2025-06-07,Motociclista,Airbnb,3,1,1011,72,166,3,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+56,Cape Verde,Guayaquil,Aventura,2025-09-15,Motociclista,Hostal,1,8,133,200,25,3,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+25,Saint Pierre and Miquelon,Riobamba,Negocios,2026-01-24,Bus,Resort,6,4,588,264,278,5,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+25,Sierra Leone,Quito,Visita Familia,2025-10-01,Motociclista,Hostal,5,10,145,1500,54,1,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+62,Reunion,Riobamba,Estudio,2026-04-05,Ciclista,Airbnb,4,4,952,304,57,7,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,3,Privado,50,Depende
+68,South Georgia and the South Sandwich Islands,Otavalo,Visita Familia,2026-01-22,Auto,Resort,3,2,750,162,26,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+45,Antarctica (the territory South of 60 deg S),Baños,Aventura,2025-09-03,Auto,Resort,3,6,1088,522,78,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+43,Ghana,Loja,Estudio,2026-03-26,Avión,Resort,3,11,654,495,217,3,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+48,Papua New Guinea,Guayaquil,Visita Familia,2026-03-13,Motociclista,Casa huespedes,5,13,942,1365,97,8,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+18,Timor-Leste,Loja,Vacaciones,2026-01-30,Avión,Airbnb,3,12,515,1224,196,6,4,Loja,Sierra,Templado,2100,Turismo Cultural,3,Privado,50,Depende
+25,Svalbard & Jan Mayen Islands,Quito,Vacaciones,2025-12-15,Bus,Hotel,3,5,1137,390,49,7,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+66,Romania,Otavalo,Visita Familia,2026-03-02,Avión,Casa huespedes,2,2,423,156,222,10,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,5,Familiar,35,No
+54,Belize,Pastaza,Estudio,2026-02-12,Ciclista,Hotel,4,7,263,784,79,1,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,1,4 estrellas,90,Sí
+68,Portugal,Otavalo,Vacaciones,2025-12-31,Bus,Airbnb,3,10,805,1110,106,2,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+67,Saint Barthelemy,Guayaquil,Negocios,2026-01-24,Avión,Hotel,3,14,900,1512,229,5,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+54,Turkey,Riobamba,Aventura,2025-08-04,Auto,Hostal,2,11,1050,616,20,9,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+53,Montserrat,Guayaquil,Vacaciones,2025-11-16,Ciclista,Airbnb,2,14,157,616,25,9,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+37,Hungary,Loja,Vacaciones,2025-07-17,Avión,Hostal,3,11,627,825,279,3,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+34,Indonesia,Loja,Negocios,2026-03-12,Ciclista,Resort,1,9,872,153,171,10,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+34,Poland,Pastaza,Negocios,2026-04-18,Auto,Airbnb,4,11,492,1408,215,3,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+52,Cyprus,Cuenca,Estudio,2025-06-27,Bus,Hotel,2,11,492,814,101,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+48,Marshall Islands,Riobamba,Visita Familia,2025-05-25,Motociclista,Resort,1,14,999,378,33,6,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+65,Spain,Cuenca,Estudio,2025-07-01,Bus,Hostal,5,3,536,165,178,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+39,Turkmenistan,Baños,Aventura,2025-10-27,Avión,Casa huespedes,4,10,217,1320,183,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+28,Qatar,Quito,Vacaciones,2025-08-20,Bus,Hotel,5,3,1108,195,78,8,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
+65,Timor-Leste,Otavalo,Estudio,2025-11-05,Auto,Hostal,4,11,122,616,246,3,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+38,Mauritius,Guayaquil,Visita Familia,2025-11-07,Ciclista,Casa huespedes,1,1,942,33,136,8,2,Guayas,Costa,Cálido,4,Malecón 2000,5,Familiar,35,No
+57,Palestinian Territory,Cuenca,Negocios,2025-11-15,Ciclista,Resort,1,8,119,288,205,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+55,United Arab Emirates,Riobamba,Visita Familia,2025-11-11,Ciclista,Hostal,6,8,1188,912,213,2,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+33,Zimbabwe,Riobamba,Aventura,2026-03-27,Auto,Hostal,4,8,289,416,50,1,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+53,Tonga,Pastaza,Estudio,2026-01-06,Motociclista,Airbnb,4,6,360,384,224,5,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+36,Montserrat,Loja,Negocios,2025-06-04,Motociclista,Hostal,3,15,504,1395,50,9,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+40,Macao,Zamora,Estudio,2025-06-01,Auto,Hostal,2,5,877,390,215,8,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,2,Económico,25,No
+53,Turkey,Baños,Negocios,2026-01-13,Auto,Airbnb,3,10,1000,840,204,3,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+54,Kenya,Pastaza,Aventura,2026-03-09,Auto,Resort,6,6,888,612,204,7,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,4,Lujo,250,Sí
+69,Saint Kitts and Nevis,Quito,Aventura,2025-10-24,Auto,Airbnb,5,15,420,2400,153,7,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+61,Peru,Quito,Aventura,2025-05-24,Bus,Casa huespedes,4,11,507,1628,300,2,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+20,Hong Kong,Cuenca,Aventura,2025-07-02,Ciclista,Hotel,6,1,168,222,32,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+54,Lao People's Democratic Republic,Quito,Aventura,2025-06-02,Motociclista,Casa huespedes,1,8,922,144,50,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+48,Venezuela,Cuenca,Visita Familia,2025-08-23,Avión,Airbnb,5,13,430,1625,113,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+28,Norfolk Island,Otavalo,Visita Familia,2025-08-12,Bus,Hostal,5,14,999,1260,105,3,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+38,Nepal,Baños,Negocios,2025-07-26,Motociclista,Casa huespedes,4,7,388,476,111,10,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+54,Netherlands Antilles,Guayaquil,Aventura,2026-04-14,Bus,Airbnb,3,12,875,828,291,2,2,Guayas,Costa,Cálido,4,Malecón 2000,3,Privado,50,Depende
+28,Tuvalu,Pastaza,Visita Familia,2025-11-02,Bus,Airbnb,6,5,304,480,256,8,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+38,Venezuela,Quito,Estudio,2026-04-09,Bus,Hostal,2,12,257,624,168,5,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+54,Denmark,Loja,Visita Familia,2025-08-02,Bus,Casa huespedes,2,13,419,702,279,3,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+52,North Macedonia,Loja,Vacaciones,2025-05-23,Motociclista,Hostal,5,6,598,900,81,10,4,Loja,Sierra,Templado,2100,Turismo Cultural,2,Económico,25,No
+47,Mali,Baños,Vacaciones,2025-12-18,Ciclista,Airbnb,3,8,1169,240,219,7,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+22,Japan,Pastaza,Negocios,2026-01-26,Motociclista,Airbnb,2,15,567,450,85,2,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+22,Uruguay,Otavalo,Visita Familia,2025-09-01,Avión,Hostal,3,12,740,468,96,2,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+57,Heard Island and McDonald Islands,Loja,Visita Familia,2026-02-28,Avión,Casa huespedes,2,5,227,190,298,4,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+24,Tanzania,Riobamba,Vacaciones,2025-12-13,Bus,Hostal,6,1,616,132,248,9,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+22,Cote d'Ivoire,Manta,Negocios,2026-01-09,Avión,Airbnb,6,4,296,840,198,8,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+34,Jersey,Zamora,Aventura,2026-01-11,Bus,Hotel,3,3,534,99,278,4,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+24,Tuvalu,Baños,Vacaciones,2026-04-17,Motociclista,Airbnb,2,15,168,360,122,4,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+67,North Macedonia,Cuenca,Vacaciones,2026-05-05,Ciclista,Resort,2,15,892,390,247,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+31,Somalia,Quito,Aventura,2025-07-02,Bus,Hostal,1,3,1125,45,198,7,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+68,Grenada,Pastaza,Estudio,2025-12-15,Bus,Casa huespedes,2,4,374,296,289,5,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+31,Hong Kong,Riobamba,Aventura,2025-12-07,Ciclista,Resort,2,14,195,868,177,3,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+26,Moldova,Cuenca,Aventura,2025-10-13,Avión,Airbnb,2,6,696,408,101,6,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,3,Privado,50,Depende
+27,Wallis and Futuna,Zamora,Visita Familia,2026-01-20,Ciclista,Hotel,6,4,524,816,235,7,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+47,Timor-Leste,Guayaquil,Visita Familia,2026-05-05,Avión,Hotel,1,4,262,120,249,9,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+41,Nigeria,Guayaquil,Negocios,2026-02-20,Auto,Hotel,1,7,943,189,81,10,2,Guayas,Costa,Cálido,4,Malecón 2000,1,4 estrellas,90,Sí
+32,Hungary,Manta,Vacaciones,2025-11-28,Bus,Airbnb,1,14,650,308,209,9,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+32,United Arab Emirates,Otavalo,Aventura,2025-10-28,Auto,Hostal,5,6,420,840,175,5,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+40,Maldives,Baños,Vacaciones,2025-10-10,Avión,Resort,4,15,1082,840,167,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,4,Lujo,250,Sí
+37,Pakistan,Riobamba,Negocios,2026-05-05,Bus,Hotel,3,5,833,210,262,6,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+26,Cocos (Keeling) Islands,Cuenca,Negocios,2025-09-25,Avión,Resort,6,8,762,1296,163,10,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+56,Venezuela,Otavalo,Visita Familia,2025-07-22,Motociclista,Hostal,2,1,929,68,228,5,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+31,Heard Island and McDonald Islands,Loja,Aventura,2025-10-29,Auto,Resort,4,5,542,640,296,4,4,Loja,Sierra,Templado,2100,Turismo Cultural,4,Lujo,250,Sí
+22,Sweden,Quito,Visita Familia,2025-07-23,Bus,Resort,5,13,1199,1365,248,9,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+63,Hong Kong,Cuenca,Vacaciones,2025-10-15,Ciclista,Hotel,2,10,697,220,46,1,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+64,Kazakhstan,Cuenca,Visita Familia,2025-12-20,Auto,Hotel,4,9,117,648,160,6,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+32,Greenland,Riobamba,Estudio,2025-06-25,Avión,Resort,5,7,564,525,105,9,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+49,Cocos (Keeling) Islands,Baños,Negocios,2025-11-10,Auto,Airbnb,2,4,702,88,254,8,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,3,Privado,50,Depende
+67,Zambia,Otavalo,Aventura,2026-02-02,Bus,Resort,1,3,958,96,144,10,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+66,Barbados,Manta,Estudio,2026-05-14,Avión,Airbnb,5,13,836,1690,93,4,6,Manabí,Costa,Cálido,6,Playas,3,Privado,50,Depende
+21,Angola,Cuenca,Vacaciones,2025-12-04,Ciclista,Resort,3,14,434,1512,74,4,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,4,Lujo,250,Sí
+61,Congo,Pastaza,Estudio,2025-06-23,Ciclista,Casa huespedes,5,13,776,2210,175,5,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+31,Belize,Pastaza,Negocios,2025-07-22,Ciclista,Hostal,1,3,540,75,161,2,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+47,Uganda,Cuenca,Visita Familia,2025-11-16,Auto,Hotel,4,11,428,1144,41,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,1,4 estrellas,90,Sí
+59,Bhutan,Pastaza,Aventura,2025-06-23,Auto,Casa huespedes,1,12,593,288,295,2,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+62,Oman,Cuenca,Negocios,2025-12-23,Auto,Hostal,3,11,494,759,58,9,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+24,Germany,Zamora,Estudio,2025-07-26,Avión,Airbnb,5,15,349,2100,144,2,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,3,Privado,50,Depende
+55,Uganda,Baños,Estudio,2026-01-14,Auto,Casa huespedes,3,3,860,180,104,3,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+49,Cameroon,Quito,Estudio,2025-11-20,Bus,Resort,5,10,753,500,236,4,1,Pichincha,Sierra,Frío,2850,Centro Histórico,4,Lujo,250,Sí
+23,Korea,Zamora,Vacaciones,2025-10-12,Motociclista,Hotel,3,5,336,285,122,6,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,1,4 estrellas,90,Sí
+18,Bangladesh,Cuenca,Aventura,2026-01-22,Auto,Hostal,4,1,131,56,53,6,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+70,Guadeloupe,Riobamba,Estudio,2025-11-20,Ciclista,Hostal,3,14,685,1092,270,4,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+48,Equatorial Guinea,Pastaza,Negocios,2025-09-13,Motociclista,Airbnb,2,11,470,572,238,5,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,3,Privado,50,Depende
+44,Liberia,Quito,Aventura,2025-07-13,Motociclista,Airbnb,1,8,450,240,256,9,1,Pichincha,Sierra,Frío,2850,Centro Histórico,3,Privado,50,Depende
+29,Antigua and Barbuda,Zamora,Aventura,2025-06-30,Avión,Resort,5,3,345,405,130,1,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+29,Maldives,Guayaquil,Aventura,2025-09-02,Auto,Resort,4,2,835,88,42,10,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+52,Togo,Cuenca,Vacaciones,2026-03-30,Auto,Casa huespedes,2,10,1045,260,294,2,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+36,Guernsey,Otavalo,Visita Familia,2025-09-15,Motociclista,Hotel,6,14,956,1092,114,7,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+57,Mayotte,Baños,Visita Familia,2025-10-11,Motociclista,Hotel,4,5,738,480,175,3,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+61,Mozambique,Manta,Aventura,2025-07-31,Bus,Hostal,3,13,364,780,257,2,6,Manabí,Costa,Cálido,6,Playas,2,Económico,25,No
+61,Sudan,Guayaquil,Aventura,2026-03-16,Motociclista,Resort,2,11,428,418,283,6,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+68,Czech Republic,Otavalo,Aventura,2026-03-22,Avión,Resort,6,13,911,1872,34,9,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+43,Cote d'Ivoire,Quito,Estudio,2026-02-23,Bus,Hostal,2,10,295,800,115,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+31,Cote d'Ivoire,Guayaquil,Negocios,2025-12-22,Ciclista,Hostal,4,9,766,936,115,10,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+47,Peru,Otavalo,Negocios,2026-05-01,Auto,Hostal,4,13,713,1456,238,10,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,2,Económico,25,No
+60,Kuwait,Manta,Visita Familia,2025-10-14,Motociclista,Resort,3,4,737,228,226,6,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+53,Egypt,Guayaquil,Vacaciones,2026-01-27,Bus,Resort,4,11,607,1232,237,2,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+57,Estonia,Manta,Estudio,2026-01-09,Auto,Casa huespedes,3,14,747,1008,292,6,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+18,Namibia,Zamora,Negocios,2025-09-10,Ciclista,Resort,1,2,732,38,45,1,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+53,Nepal,Manta,Visita Familia,2025-07-02,Auto,Casa huespedes,6,2,687,432,212,9,6,Manabí,Costa,Cálido,6,Playas,5,Familiar,35,No
+37,Cuba,Riobamba,Negocios,2025-07-28,Ciclista,Hostal,1,7,670,140,135,6,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,2,Económico,25,No
+41,Thailand,Pastaza,Estudio,2025-11-02,Motociclista,Casa huespedes,2,8,1051,384,153,5,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,5,Familiar,35,No
+62,Yemen,Otavalo,Estudio,2025-09-13,Bus,Hotel,6,5,271,1200,187,4,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+34,United States Minor Outlying Islands,Pastaza,Estudio,2025-11-29,Auto,Hostal,5,7,1095,455,92,3,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,2,Económico,25,No
+63,Tokelau,Cuenca,Vacaciones,2026-05-16,Auto,Casa huespedes,5,12,962,2340,162,9,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+65,Norway,Baños,Visita Familia,2026-01-03,Avión,Hotel,5,9,645,675,146,3,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,1,4 estrellas,90,Sí
+20,Georgia,Loja,Vacaciones,2026-04-06,Auto,Casa huespedes,5,9,430,1530,123,2,4,Loja,Sierra,Templado,2100,Turismo Cultural,5,Familiar,35,No
+61,Bolivia,Manta,Negocios,2025-12-24,Motociclista,Resort,5,2,634,380,52,4,6,Manabí,Costa,Cálido,6,Playas,4,Lujo,250,Sí
+33,Maldives,Zamora,Negocios,2025-12-25,Motociclista,Casa huespedes,1,15,356,540,153,10,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,5,Familiar,35,No
+23,Sudan,Zamora,Visita Familia,2025-09-30,Motociclista,Resort,6,8,1009,1776,202,9,9,Zamora Chinchipe,Amazonía,Tropical,970,Naturaleza,4,Lujo,250,Sí
+53,Congo,Riobamba,Aventura,2026-01-16,Avión,Hotel,2,4,1102,240,239,5,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,1,4 estrellas,90,Sí
+60,Angola,Riobamba,Negocios,2026-05-17,Bus,Resort,1,12,899,408,271,9,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+35,Georgia,Loja,Visita Familia,2026-05-20,Auto,Hotel,5,15,156,2325,208,9,4,Loja,Sierra,Templado,2100,Turismo Cultural,1,4 estrellas,90,Sí
+69,Egypt,Quito,Negocios,2025-07-19,Bus,Casa huespedes,5,6,1112,1020,229,5,1,Pichincha,Sierra,Frío,2850,Centro Histórico,5,Familiar,35,No
+53,Fiji,Pastaza,Aventura,2025-06-23,Ciclista,Hotel,6,6,447,1296,181,9,10,Pastaza,Amazonía,Húmedo,950,Selva Amazónica,1,4 estrellas,90,Sí
+19,Suriname,Manta,Visita Familia,2025-06-26,Ciclista,Hotel,2,10,1059,260,154,2,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+32,Belize,Riobamba,Visita Familia,2026-05-13,Auto,Resort,6,11,885,1056,161,10,8,Chimborazo,Sierra,Frío,2750,Volcán Chimborazo,4,Lujo,250,Sí
+46,Sao Tome and Principe,Otavalo,Aventura,2025-07-23,Avión,Hotel,1,2,417,56,66,4,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,1,4 estrellas,90,Sí
+41,Seychelles,Manta,Visita Familia,2025-07-14,Motociclista,Hotel,6,14,1192,840,215,1,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+61,Monaco,Cuenca,Vacaciones,2025-10-31,Avión,Hostal,6,7,724,798,48,9,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,2,Económico,25,No
+41,Latvia,Otavalo,Negocios,2026-01-20,Bus,Resort,6,7,878,588,239,10,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,4,Lujo,250,Sí
+60,Burundi,Guayaquil,Vacaciones,2026-05-17,Motociclista,Resort,2,2,358,160,230,7,2,Guayas,Costa,Cálido,4,Malecón 2000,4,Lujo,250,Sí
+57,Cyprus,Baños,Visita Familia,2026-01-09,Motociclista,Casa huespedes,6,2,803,408,219,5,5,Tungurahua,Sierra,Húmedo,1820,Cascadas,5,Familiar,35,No
+46,Madagascar,Manta,Estudio,2026-03-04,Auto,Hotel,6,10,617,2340,121,4,6,Manabí,Costa,Cálido,6,Playas,1,4 estrellas,90,Sí
+48,Palestinian Territory,Otavalo,Estudio,2025-06-11,Motociclista,Airbnb,5,13,691,2210,228,1,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,3,Privado,50,Depende
+47,Antigua and Barbuda,Guayaquil,Negocios,2026-04-30,Avión,Hostal,5,2,256,400,278,4,2,Guayas,Costa,Cálido,4,Malecón 2000,2,Económico,25,No
+63,Northern Mariana Islands,Otavalo,Aventura,2025-11-09,Ciclista,Casa huespedes,5,12,985,1260,129,6,7,Imbabura,Sierra,Frío,2530,Mercado Artesanal,5,Familiar,35,No
+56,Uruguay,Cuenca,Negocios,2025-12-02,Motociclista,Casa huespedes,3,11,371,957,71,3,3,Azuay,Sierra,Templado,2560,Arquitectura Colonial,5,Familiar,35,No
+48,Malawi,Quito,Negocios,2025-10-20,Motociclista,Hostal,2,1,598,24,120,2,1,Pichincha,Sierra,Frío,2850,Centro Histórico,2,Económico,25,No
+42,Colombia,Quito,Estudio,2026-02-23,Auto,Hotel,3,9,344,837,195,3,1,Pichincha,Sierra,Frío,2850,Centro Histórico,1,4 estrellas,90,Sí
